@@ -1,0 +1,2339 @@
+{
+    "a4f5a46bba4748e08c359bf08c770580": {
+        "": [
+            "0",
+            "1",
+            "2"
+        ],
+        "user5": [
+            "i agree...one of the best. do yu have another suggestions for something similiar to those",
+            "i agree...one of the best. do yu have another suggestions for something similiar to those",
+            "i agree...one of the best. do yu have another suggestions for something similiar to those"
+        ],
+        "system5": [
+            "Have you seen \"Seven\" or \"L.A. Confidential  (1997)\" ? Spacey's in both",
+            "Have you seen \"Seven\" or \"L.A. Confidential  (1997)\" ? Spacey's in both",
+            "Have you seen \"Seven\" or \"L.A. Confidential  (1997)\" ? Spacey's in both"
+        ],
+        "summary": [
+            "User wants to find a movie similar to \"Reservoir Dogs (1992)\" and \"Goodfellas (1990)\".",
+            "User wants to find a movie similar to \"Reservoir Dogs (1992)\" and \"Goodfellas (1990)\".",
+            "User wants to find a movie similar to \"Reservoir Dogs (1992)\" and \"Goodfellas (1990)\"."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Decreased confidence"
+        ],
+        "task-duration": [
+            "7.3",
+            "15.8",
+            "52.0"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "much-more-difficult"
+        ],
+        "feedback": [
+            "Although the recommendations fit the summary requests, the user specifically says that they want more recommendations like the movies mentioned before, so seeing more history to see what they're talking about would definitely help.",
+            "it would let me know if they recomended anything",
+            "It is unclear from the given dialogue and the summary what kind of film the user wants to watch."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "not-at-all"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "very-useful",
+            "neutral"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "0"
+        ]
+    },
+    "3e7c62c10b0a4c18a67f304cc7de944c": {
+        "": [
+            "3",
+            "4",
+            "5"
+        ],
+        "user5": [
+            "A timeless classic. EeeW!",
+            "A timeless classic. EeeW!",
+            "A timeless classic. EeeW!"
+        ],
+        "system5": [
+            "Try those and compare and contrast",
+            "Try those and compare and contrast",
+            "Try those and compare and contrast"
+        ],
+        "summary": [
+            "The user wants to discover classic comedy movies to watch.",
+            "The user wants to discover classic comedy movies to watch.",
+            "The user wants to discover classic comedy movies to watch."
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "Increased confidence",
+            "Decreased confidence"
+        ],
+        "task-duration": [
+            "17.6",
+            "9.1",
+            "192.7"
+        ],
+        "ease-of-evaluation": [
+            "much-more-difficult",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "there was no recommendation",
+            "It was clear system was not helpful in this situation.",
+            "If I am just evaluating the highlighted response I suppose it is easy because there is no recommendation. So anything else is irrelevant."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "neutral",
+            "very-useful",
+            "not-very-useful"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "52861c5f87d1492eb60b1835052ced78": {
+        "": [
+            "6",
+            "7",
+            "8"
+        ],
+        "user5": [
+            "Thanks for the recommendation. I've also been in the mood for some science fiction lately. Any suggestions in that genre?",
+            "Thanks for the recommendation. I've also been in the mood for some science fiction lately. Any suggestions in that genre?",
+            "Thanks for the recommendation. I've also been in the mood for some science fiction lately. Any suggestions in that genre?"
+        ],
+        "system5": [
+            "Of course! If you're looking for captivating sci-fi, consider watching \"Inception  (2010)\" or \"Blade Runner 2049  (2017).\" Both offer mind-bending experiences.",
+            "Of course! If you're looking for captivating sci-fi, consider watching \"Inception  (2010)\" or \"Blade Runner 2049  (2017).\" Both offer mind-bending experiences.",
+            "Of course! If you're looking for captivating sci-fi, consider watching \"Inception  (2010)\" or \"Blade Runner 2049  (2017).\" Both offer mind-bending experiences."
+        ],
+        "summary": [
+            "The user wants to find a mystery movie to watch, similar to \"Identity (2003)\" but not like \"The Girl with the Dragon Tattoo (2011)\".",
+            "The user wants to find a mystery movie to watch, similar to \"Identity (2003)\" but not like \"The Girl with the Dragon Tattoo (2011)\".",
+            "The user wants to find a mystery movie to watch, similar to \"Identity (2003)\" but not like \"The Girl with the Dragon Tattoo (2011)\"."
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "26.0",
+            "18.4",
+            "16.1"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "already seen what wanted",
+            "The given dialogue already shows that the user is looking for a sci-fi film.",
+            "it provided me the full conversation"
+        ],
+        "user-preference": [
+            "yes",
+            "no-summary",
+            "somehow"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "neutral",
+            "somewhat-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "6914e6b937dc41b3948e4cd00a93dfa3": {
+        "": [
+            "9",
+            "10",
+            "11"
+        ],
+        "user5": [
+            "oh wow, I didn't know that",
+            "oh wow, I didn't know that",
+            "oh wow, I didn't know that"
+        ],
+        "system5": [
+            "\"Mother! (2017)\" and \"Get Out (2017)\" are both scary but not as much gore.",
+            "\"Mother! (2017)\" and \"Get Out (2017)\" are both scary but not as much gore.",
+            "\"Mother! (2017)\" and \"Get Out (2017)\" are both scary but not as much gore."
+        ],
+        "summary": [
+            "User wants to find a horror movie, not too scary, similar to \"Scream (1996)\", but not \"Sinister (2012)\" or its sequel.",
+            "User wants to find a horror movie, not too scary, similar to \"Scream (1996)\", but not \"Sinister (2012)\" or its sequel.",
+            "User wants to find a horror movie, not too scary, similar to \"Scream (1996)\", but not \"Sinister (2012)\" or its sequel."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "15.4",
+            "10.1",
+            "16.0"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-more-difficult",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "seen what user wanted",
+            "While the recommendations overlap in genre with what the summary asks for somewhat, the movies are pretty different. Seeing more history would help me understand the user's preferences better.",
+            "The summary lets me know what kind of movie the user wants to watch. More dialogue is not needed."
+        ],
+        "user-preference": [
+            "yes",
+            "somehow",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "8c011628b7b942e1901ff6c73e187015": {
+        "": [
+            "12",
+            "13",
+            "14"
+        ],
+        "user5": [
+            "I think I've seen it I don't remember. It's on Netflix go watch it really good.",
+            "I think I've seen it I don't remember. It's on Netflix go watch it really good.",
+            "I think I've seen it I don't remember. It's on Netflix go watch it really good."
+        ],
+        "system5": [
+            "A really eye opening one is \"Super Size Me (2004).\" Have you seen that one?",
+            "A really eye opening one is \"Super Size Me (2004).\" Have you seen that one?",
+            "A really eye opening one is \"Super Size Me (2004).\" Have you seen that one?"
+        ],
+        "summary": [
+            "User wants to find an engaging documentary movie to watch.",
+            "User wants to find an engaging documentary movie to watch.",
+            "User wants to find an engaging documentary movie to watch."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "27.9",
+            "9.6",
+            "7.7"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "I could find out more about what the user likes specifically.",
+            "i don't really need any more information here",
+            "While the summary states the user wants a documentary and that's the recommendation, that's a very broad genre so more context would help narrow down how good a recommendation this was."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "somehow"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "b187253379be4e9d9b344451ace5897f": {
+        "": [
+            "15",
+            "16",
+            "17"
+        ],
+        "user5": [
+            "what about \"Sinister  (2012)\"",
+            "what about \"Sinister  (2012)\"",
+            "what about \"Sinister  (2012)\""
+        ],
+        "system5": [
+            "The best movie i've seen recently is \"Kingsman: The Golden Circle\"",
+            "The best movie i've seen recently is \"Kingsman: The Golden Circle\"",
+            "The best movie i've seen recently is \"Kingsman: The Golden Circle\""
+        ],
+        "summary": [
+            "The user wants to find out more about \"The Cabin in the Woods\" and possibly other horror movies to watch.",
+            "The user wants to find out more about \"The Cabin in the Woods\" and possibly other horror movies to watch.",
+            "The user wants to find out more about \"The Cabin in the Woods\" and possibly other horror movies to watch."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "53.3",
+            "19.9",
+            "10.1"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "This is the wrong genre.",
+            "was not much in the dialog to determine",
+            "The recommendation is totally outside the summary requirements, and the system ignores what the user said in the one line of history basically. I'm confident this is a not relevant recommendation, but more context might make it make more sense."
+        ],
+        "user-preference": [
+            "yes",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "relevance": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    "1e2d0acecf5f4dbf96d514a2f10b2c2a": {
+        "": [
+            "18",
+            "19",
+            "20"
+        ],
+        "user5": [
+            "I don't think I woudl like that.",
+            "I don't think I woudl like that.",
+            "I don't think I woudl like that."
+        ],
+        "system5": [
+            "Also \"Coco  (2017)\" is a cute family movie that is new.",
+            "Also \"Coco  (2017)\" is a cute family movie that is new.",
+            "Also \"Coco  (2017)\" is a cute family movie that is new."
+        ],
+        "summary": [
+            "User wants to find a good comedy movie to watch.",
+            "User wants to find a good comedy movie to watch.",
+            "User wants to find a good comedy movie to watch."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "41.8",
+            "9.1",
+            "9.1"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "somewhat-more-difficult",
+            "somewhat-more-difficult"
+        ],
+        "feedback": [
+            "needed more info",
+            "The summary asks for a comedy and the system suggests a comedy, but it's a family movie which might be totally not what they're looking for. More context would help.",
+            "i don't know what the user didn't like before"
+        ],
+        "user-preference": [
+            "yes",
+            "somehow",
+            "somehow"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "relevance": [
+            "0",
+            "1",
+            "1"
+        ]
+    },
+    "a578a1464b83435882ffc00634fd3804": {
+        "": [
+            "21",
+            "22",
+            "23"
+        ],
+        "user5": [
+            "I'm a little ashamed here, but I've never watched it. ",
+            "I'm a little ashamed here, but I've never watched it. ",
+            "I'm a little ashamed here, but I've never watched it. "
+        ],
+        "system5": [
+            "You totally should! And also watch \"It  (2017).\"",
+            "You totally should! And also watch \"It  (2017).\"",
+            "You totally should! And also watch \"It  (2017).\""
+        ],
+        "summary": [
+            "User wants to find a horror movie similar to \"Saw\" and \"A Nightmare on Elm Street\" that the user has not seen yet.",
+            "User wants to find a horror movie similar to \"Saw\" and \"A Nightmare on Elm Street\" that the user has not seen yet.",
+            "User wants to find a horror movie similar to \"Saw\" and \"A Nightmare on Elm Street\" that the user has not seen yet."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "53.1",
+            "6.2",
+            "105.2"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "This was clearly in the right genre.",
+            "The recommendation is certainly like the movies the user asked for according to the summary. The history doesn't help much though and more context could possibly help, but it's probably not necessary.",
+            "The system's recommendation is right in line with the kind of movie (gory horror) the user is looking for according to the summary. No more information is necessary,"
+        ],
+        "user-preference": [
+            "yes",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "aadc772dcded4cd0ad645b0e949e8bbc": {
+        "": [
+            "24",
+            "25",
+            "26"
+        ],
+        "user5": [
+            "Okay tell me the movies you like then.",
+            "Okay tell me the movies you like then.",
+            "Okay tell me the movies you like then."
+        ],
+        "system5": [
+            "I can suggest lots of great comedies based on your sense of humor Okay, well, my favorite is \"The Blues Brothers  (1980)\"",
+            "I can suggest lots of great comedies based on your sense of humor Okay, well, my favorite is \"The Blues Brothers  (1980)\"",
+            "I can suggest lots of great comedies based on your sense of humor Okay, well, my favorite is \"The Blues Brothers  (1980)\""
+        ],
+        "summary": [
+            "User wants to find a movie recommendation that aligns with the user's preference for comedy films.",
+            "User wants to find a movie recommendation that aligns with the user's preference for comedy films.",
+            "User wants to find a movie recommendation that aligns with the user's preference for comedy films."
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "29.0",
+            "12.0",
+            "96.2"
+        ],
+        "ease-of-evaluation": [
+            "neutral",
+            "much-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "I am not sure if this is the type of comedy the user likes",
+            "i would have seen their prefrences",
+            "While the recommendation is a comedy like the user asked for, the user's more narrow preferences aren't really represented in the history or summary so more context would help for a better evaluation."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "somehow"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "5a9b545575fc4ec1a167852ad3749c0b": {
+        "": [
+            "27",
+            "28",
+            "29"
+        ],
+        "user5": [
+            "I haven't seen that one. I've been curious about it.",
+            "I haven't seen that one. I've been curious about it.",
+            "I haven't seen that one. I've been curious about it."
+        ],
+        "system5": [
+            "I saw \"Gravity  (2013)\" and I fell asleep.. wasnt into it",
+            "I saw \"Gravity  (2013)\" and I fell asleep.. wasnt into it",
+            "I saw \"Gravity  (2013)\" and I fell asleep.. wasnt into it"
+        ],
+        "summary": [
+            "The user wants recommendations for movies similar to \"The Taking of Pelham One Two Three (1974)\", \"Money Train (1995)\", and \"Psycho (1960)\", but does not want animated movies or movies like \"Gravity (2013",
+            "The user wants recommendations for movies similar to \"The Taking of Pelham One Two Three (1974)\", \"Money Train (1995)\", and \"Psycho (1960)\", but does not want animated movies or movies like \"Gravity (2013",
+            "The user wants recommendations for movies similar to \"The Taking of Pelham One Two Three (1974)\", \"Money Train (1995)\", and \"Psycho (1960)\", but does not want animated movies or movies like \"Gravity (2013"
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "11.8",
+            "17.4",
+            "21.6"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "somewhat-more-difficult"
+        ],
+        "feedback": [
+            "It was already clear what the user did not like and liked from the summary and dialogue.",
+            "The summary explicitly states the user doesn't want movies like the one the system listed. Also, the system doesn't even recommend it, but says that it's a bad movie basically. Don't need any more context.",
+            "It specifically says they don't want Gravity, but that is what the response is about. They aren't recommending it, but no reason to bring it up either."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "somehow"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "e46e3d71b96a4bac8a0332c8791a437f": {
+        "": [
+            "30",
+            "31",
+            "32"
+        ],
+        "user5": [
+            "I want something more like the \"The Martian  (2015)\". Thanks for the help anyway.",
+            "I want something more like the \"The Martian  (2015)\". Thanks for the help anyway.",
+            "I want something more like the \"The Martian  (2015)\". Thanks for the help anyway."
+        ],
+        "system5": [
+            "sory how bout \"Moon  (2009)\"",
+            "sory how bout \"Moon  (2009)\"",
+            "sory how bout \"Moon  (2009)\""
+        ],
+        "summary": [
+            "User wants to find a sci-fi movie similar to \"The Martian (2015)\".",
+            "User wants to find a sci-fi movie similar to \"The Martian (2015)\".",
+            "User wants to find a sci-fi movie similar to \"The Martian (2015)\"."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "14.3",
+            "30.3",
+            "27.8"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "It was easy to see this was what the user was looking for.",
+            "More context might help narrow down the user's preferences, but the movie recommended is pretty similar to the movie the user noted as an example of something they want.",
+            "It seems that the user is disappointed with the system, but then the system's suggestion seems to be a good one that matches the user's preference. The next user response would be more helpful but the previous dialogue might explain the user's disappointment. No matter, at this point the system seems to have made a relevant recommendation."
+        ],
+        "user-preference": [
+            "yes",
+            "somehow",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "671557e7d3c3455f9377a294d6127d14": {
+        "": [
+            "33",
+            "34",
+            "35"
+        ],
+        "user5": [
+            "\"Elf\" is nice it's just that it is a christmas movie",
+            "\"Elf\" is nice it's just that it is a christmas movie",
+            "\"Elf\" is nice it's just that it is a christmas movie"
+        ],
+        "system5": [
+            "\"Fred Claus (2007)\" is a comedy about Santa Claus' bitter older brother who is forced to help out at the North Pole. Sorry, I wish I had more suggestions for you...",
+            "\"Fred Claus (2007)\" is a comedy about Santa Claus' bitter older brother who is forced to help out at the North Pole. Sorry, I wish I had more suggestions for you...",
+            "\"Fred Claus (2007)\" is a comedy about Santa Claus' bitter older brother who is forced to help out at the North Pole. Sorry, I wish I had more suggestions for you..."
+        ],
+        "summary": [
+            "User wants to find a comedy movie similar to \"Step Brothers (2008)\" and \"The Hangover (2009)\", excluding \"Daddy's Home (2015)\" and \"Elf (2003)\".",
+            "User wants to find a comedy movie similar to \"Step Brothers (2008)\" and \"The Hangover (2009)\", excluding \"Daddy's Home (2015)\" and \"Elf (2003)\".",
+            "User wants to find a comedy movie similar to \"Step Brothers (2008)\" and \"The Hangover (2009)\", excluding \"Daddy's Home (2015)\" and \"Elf (2003)\"."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "34.9",
+            "17.4",
+            "24.8"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "somewhat-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "already seen what wanted",
+            "It is clear from the dialogue that the user is not looking for a Christmas movie.",
+            "Not really, it seems they don't want to watch a christmas movie"
+        ],
+        "user-preference": [
+            "yes",
+            "yes",
+            "somehow"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "3d19fde574e0400c882f5406ee9d762c": {
+        "": [
+            "36",
+            "37",
+            "38"
+        ],
+        "user5": [
+            "Close, but I want something eerie that messes with my mind.",
+            "Close, but I want something eerie that messes with my mind.",
+            "Close, but I want something eerie that messes with my mind."
+        ],
+        "system5": [
+            "Consider \"Eternal Sunshine of the Spotless Mind (2004)\" \u2013 thought-provoking.",
+            "Consider \"Eternal Sunshine of the Spotless Mind (2004)\" \u2013 thought-provoking.",
+            "Consider \"Eternal Sunshine of the Spotless Mind (2004)\" \u2013 thought-provoking."
+        ],
+        "summary": [
+            "User wants to find a recommendation for an intense horror, psychological, or suspenseful thriller movie, preferably with a supernatural element.",
+            "User wants to find a recommendation for an intense horror, psychological, or suspenseful thriller movie, preferably with a supernatural element.",
+            "User wants to find a recommendation for an intense horror, psychological, or suspenseful thriller movie, preferably with a supernatural element."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "39.9",
+            "20.7",
+            "12.6"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "sUMMARY HELPED",
+            "While the recommendation meets the criteria of being a bit mind bending and psychological, it's not really horror or thriller. More context might help me understand how good or not this recommendation is.",
+            "It is clear from the given dialogue and the summary that the user is looking for an eerie, supernatural movie. The system's suggestion does not match this."
+        ],
+        "user-preference": [
+            "yes",
+            "somehow",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "0",
+            "1",
+            "0"
+        ]
+    },
+    "797c2c10410e44aeba65c9f523f50004": {
+        "": [
+            "39",
+            "40",
+            "41"
+        ],
+        "user5": [
+            "Not really my preference.",
+            "Not really my preference.",
+            "Not really my preference."
+        ],
+        "system5": [
+            "Okay, how about \"The Great Gatsby (2013)\"? It's a visually stunning film.",
+            "Okay, how about \"The Great Gatsby (2013)\"? It's a visually stunning film.",
+            "Okay, how about \"The Great Gatsby (2013)\"? It's a visually stunning film."
+        ],
+        "summary": [
+            "User wants to find a recent comedy or action movie recommendation that the user hasn't seen before.",
+            "User wants to find a recent comedy or action movie recommendation that the user hasn't seen before.",
+            "User wants to find a recent comedy or action movie recommendation that the user hasn't seen before."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "No effect on confidence",
+            "Decreased confidence"
+        ],
+        "task-duration": [
+            "6.3",
+            "81.3",
+            "21.1"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "somewhat-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "While more context could possibly help explain why the system recommended this, it's totally outside the summary requests and the user's prior message makes clear they didn't like whatever was said before, so the system probably isn't working well.",
+            "I like context it helps me understand where things are coming from",
+            "It was kind of hard to judge with two utterances."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "1"
+        ]
+    },
+    "67beb8e68e904785b7ebb63a01915a08": {
+        "": [
+            "42",
+            "43",
+            "44"
+        ],
+        "user5": [
+            "I am not much of a sci-fi fun!",
+            "I am not much of a sci-fi fun!",
+            "I am not much of a sci-fi fun!"
+        ],
+        "system5": [
+            "May be \"Interstellar (2014)\" will be of interest?",
+            "May be \"Interstellar (2014)\" will be of interest?",
+            "May be \"Interstellar (2014)\" will be of interest?"
+        ],
+        "summary": [
+            "User wants to find a recommended tear jerker movie and a sci-fi adventure movie to watch.",
+            "User wants to find a recommended tear jerker movie and a sci-fi adventure movie to watch.",
+            "User wants to find a recommended tear jerker movie and a sci-fi adventure movie to watch."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Decreased confidence",
+            "Decreased confidence"
+        ],
+        "task-duration": [
+            "27.6",
+            "51.5",
+            "15.1"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-more-difficult",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "user differed from summary",
+            "summary says they want a sci fi movie but user said they're not a sci fi fan, so how to decide if a sci fi movie rec is relevant or not?",
+            "I would know if they denied any other movies"
+        ],
+        "user-preference": [
+            "yes",
+            "yes",
+            "not-at-all"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "relevance": [
+            "1",
+            "0",
+            "1"
+        ]
+    },
+    "3b0e21fa81a04ae4832c4baf2c2cf170": {
+        "": [
+            "45",
+            "46",
+            "47"
+        ],
+        "user5": [
+            "One more recommendation? If it's not horror I'm open.",
+            "One more recommendation? If it's not horror I'm open.",
+            "One more recommendation? If it's not horror I'm open."
+        ],
+        "system5": [
+            "\"On Body and Soul (2017)\" didnt hit theaters till 2018 i beleive anyhow in my state",
+            "\"On Body and Soul (2017)\" didnt hit theaters till 2018 i beleive anyhow in my state",
+            "\"On Body and Soul (2017)\" didnt hit theaters till 2018 i beleive anyhow in my state"
+        ],
+        "summary": [
+            "The user wants to find a critically acclaimed, non-horror movie from the last year that is similar to \"Black Panther (2018)\".",
+            "The user wants to find a critically acclaimed, non-horror movie from the last year that is similar to \"Black Panther (2018)\".",
+            "The user wants to find a critically acclaimed, non-horror movie from the last year that is similar to \"Black Panther (2018)\"."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "70.0",
+            "24.9",
+            "72.5"
+        ],
+        "ease-of-evaluation": [
+            "much-more-difficult",
+            "much-easy",
+            "somewhat-more-difficult"
+        ],
+        "feedback": [
+            "They asked for another non horror recommendation, which the movie is, but the summary says like \"Black Panther\" which the recommendation is not",
+            "It was clear this was not what the user was into",
+            "needed more info"
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "77ea68b7b7fb4966a15db0e409ff7192": {
+        "": [
+            "48",
+            "49",
+            "50"
+        ],
+        "user5": [
+            "Have not seen that one. Any good?",
+            "Have not seen that one. Any good?",
+            "Have not seen that one. Any good?"
+        ],
+        "system5": [
+            "And \"American Hustle (2013)\" \"Limitless  (2011)\" isn't as good as the others",
+            "And \"American Hustle (2013)\" \"Limitless  (2011)\" isn't as good as the others",
+            "And \"American Hustle (2013)\" \"Limitless  (2011)\" isn't as good as the others"
+        ],
+        "summary": [
+            "User wants to find movies featuring Kris Kristofferson and Bradley Cooper.",
+            "User wants to find movies featuring Kris Kristofferson and Bradley Cooper.",
+            "User wants to find movies featuring Kris Kristofferson and Bradley Cooper."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "61.9",
+            "7.5",
+            "21.4"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "already seen what wanted",
+            "While the movies recommended include one of the actors the user asked for, more context would help narrow down their preferences better for sure as it's pretty vague as is.",
+            "The summary states that the user wants a movie with both the actors in it, but the system suggests two movies that only include Bradley Cooper."
+        ],
+        "user-preference": [
+            "yes",
+            "somehow",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "0"
+        ]
+    },
+    "4437f93057634fd88b87d44c200dbbd4": {
+        "": [
+            "51",
+            "52",
+            "53"
+        ],
+        "user5": [
+            "What is it about?",
+            "What is it about?",
+            "What is it about?"
+        ],
+        "system5": [
+            "There is a new one too \"Mad Max: Fury Road (2015)\" with Tom Hardy.",
+            "There is a new one too \"Mad Max: Fury Road (2015)\" with Tom Hardy.",
+            "There is a new one too \"Mad Max: Fury Road (2015)\" with Tom Hardy."
+        ],
+        "summary": [
+            "User wants to find more exciting action movie recommendations similar to \"Terminator Genisys (2015)\".",
+            "User wants to find more exciting action movie recommendations similar to \"Terminator Genisys (2015)\".",
+            "User wants to find more exciting action movie recommendations similar to \"Terminator Genisys (2015)\"."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "25.3",
+            "15.7",
+            "8.7"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-more-difficult",
+            "somewhat-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "needed more info",
+            "While more context might make it easier to judge, the recommendation totally fits with what the user wants from the summary so it's maybe not necessary.",
+            "More dialogue could help specify exactly what type of movie the user is looking for."
+        ],
+        "user-preference": [
+            "yes",
+            "somehow",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "688237a067ee4e2b8d301a8141273460": {
+        "": [
+            "54",
+            "55",
+            "56"
+        ],
+        "user5": [
+            "i mean that is true so maybe it was a good moie but you cant beat the first.",
+            "i mean that is true so maybe it was a good moie but you cant beat the first.",
+            "i mean that is true so maybe it was a good moie but you cant beat the first."
+        ],
+        "system5": [
+            "Ok well that is great point. \"The Nut Job (2014)\" was agreat movie as well",
+            "Ok well that is great point. \"The Nut Job (2014)\" was agreat movie as well",
+            "Ok well that is great point. \"The Nut Job (2014)\" was agreat movie as well"
+        ],
+        "summary": [
+            "User wants to find a movie recommendation similar to \"Sister Act (1992)\".",
+            "User wants to find a movie recommendation similar to \"Sister Act (1992)\".",
+            "User wants to find a movie recommendation similar to \"Sister Act (1992)\"."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "30.4",
+            "97.3",
+            "10.0"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "neutral"
+        ],
+        "feedback": [
+            "I could find out more specifics about what the user likes.",
+            "needed more info",
+            "The given dialogue does not indicate what kind of movie the user is looking for."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    "d85686fa92714754aae13e82bd0e0083": {
+        "": [
+            "57",
+            "58",
+            "59"
+        ],
+        "user5": [
+            "Sounds too depressing. Something delightful please?",
+            "Sounds too depressing. Something delightful please?",
+            "Sounds too depressing. Something delightful please?"
+        ],
+        "system5": [
+            "Sure thing! Since you appreciated strong performances, you might also enjoy \"The Wrestler (2008),\" which delves into the world of professional wrestling and features Mickey Rourke.",
+            "Sure thing! Since you appreciated strong performances, you might also enjoy \"The Wrestler (2008),\" which delves into the world of professional wrestling and features Mickey Rourke.",
+            "Sure thing! Since you appreciated strong performances, you might also enjoy \"The Wrestler (2008),\" which delves into the world of professional wrestling and features Mickey Rourke."
+        ],
+        "summary": [
+            "User wants to find a thought-provoking film similar to \"Million Dollar Baby (2004)\" with some action and intense story, different from \"Rocky (1976)\" and \"The Fighter (2010)\".",
+            "User wants to find a thought-provoking film similar to \"Million Dollar Baby (2004)\" with some action and intense story, different from \"Rocky (1976)\" and \"The Fighter (2010)\".",
+            "User wants to find a thought-provoking film similar to \"Million Dollar Baby (2004)\" with some action and intense story, different from \"Rocky (1976)\" and \"The Fighter (2010)\"."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "39.7",
+            "52.6",
+            "23.4"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "neutral"
+        ],
+        "feedback": [
+            "seen what user wanted",
+            "The summary provided good information.",
+            "just to tell more of their personality"
+        ],
+        "user-preference": [
+            "yes",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "neutral"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "ab30102a3c0e4a189286fb0264633dca": {
+        "": [
+            "60",
+            "61",
+            "62"
+        ],
+        "user5": [
+            "I also like the \"The Conjuring \" movies as well",
+            "I also like the \"The Conjuring \" movies as well",
+            "I also like the \"The Conjuring \" movies as well"
+        ],
+        "system5": [
+            "I've actually never have seen them",
+            "I've actually never have seen them",
+            "I've actually never have seen them"
+        ],
+        "summary": [
+            "User wants to find recommendations for scary movies similar to \"Happy Death Day (2017)\" and \"Ouija (2014)\".",
+            "User wants to find recommendations for scary movies similar to \"Happy Death Day (2017)\" and \"Ouija (2014)\".",
+            "User wants to find recommendations for scary movies similar to \"Happy Death Day (2017)\" and \"Ouija (2014)\"."
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "Decreased confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "32.7",
+            "23.7",
+            "83.2"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "There was no recommendation to judge",
+            "Had the system suggested film earlier in the conversation? That would be helpful to know",
+            "No recommendation was made so more history wouldn't really help."
+        ],
+        "user-preference": [
+            "yes",
+            "yes",
+            "somehow"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "not-very-useful",
+            "not-very-useful"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "6c24aad09b7b48c7b280fa938d367134": {
+        "": [
+            "63",
+            "64",
+            "65"
+        ],
+        "user5": [
+            "I have not seen that yet. I am not a huge fan of sequels or trilogies I saw part of it, didn't really care for it",
+            "I have not seen that yet. I am not a huge fan of sequels or trilogies I saw part of it, didn't really care for it",
+            "I have not seen that yet. I am not a huge fan of sequels or trilogies I saw part of it, didn't really care for it"
+        ],
+        "system5": [
+            "I don't think sequels are ever as good as the original. How about \"Psycho  (1960)\" do you think you'd like to see it?",
+            "I don't think sequels are ever as good as the original. How about \"Psycho  (1960)\" do you think you'd like to see it?",
+            "I don't think sequels are ever as good as the original. How about \"Psycho  (1960)\" do you think you'd like to see it?"
+        ],
+        "summary": [
+            "User wants to find movies similar to \"What Lies Beneath (2000)\" to watch either in the theater or at home.",
+            "User wants to find movies similar to \"What Lies Beneath (2000)\" to watch either in the theater or at home.",
+            "User wants to find movies similar to \"What Lies Beneath (2000)\" to watch either in the theater or at home."
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "Increased confidence",
+            "Decreased confidence"
+        ],
+        "task-duration": [
+            "41.4",
+            "25.7",
+            "36.7"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "somewhat-easy",
+            "much-more-difficult"
+        ],
+        "feedback": [
+            "its hard to judge on one recommendation",
+            "seen what user wanted",
+            "Neither the given dialogue nor the summary help to know what kind of horror movie the user is looking for."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "somehow"
+        ],
+        "context-usefulness": [
+            "neutral",
+            "very-useful",
+            "neutral"
+        ],
+        "relevance": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    "39b79e1b8ccb4e1cac645e3d4a1dfbf9": {
+        "": [
+            "66",
+            "67",
+            "68"
+        ],
+        "user5": [
+            "Ive seen that one, loved it too. will look for \"Prom Night  (1980)\" , thanks for the recommendation. have a great night.",
+            "Ive seen that one, loved it too. will look for \"Prom Night  (1980)\" , thanks for the recommendation. have a great night.",
+            "Ive seen that one, loved it too. will look for \"Prom Night  (1980)\" , thanks for the recommendation. have a great night."
+        ],
+        "system5": [
+            "I heard the new \"A Quiet Place (2018)\" is supposed to be really creepy",
+            "I heard the new \"A Quiet Place (2018)\" is supposed to be really creepy",
+            "I heard the new \"A Quiet Place (2018)\" is supposed to be really creepy"
+        ],
+        "summary": [
+            "User wants to find more classic slasher movies similar to \"Friday the 13th (1980)\" and \"Halloween (1978)\".",
+            "User wants to find more classic slasher movies similar to \"Friday the 13th (1980)\" and \"Halloween (1978)\".",
+            "User wants to find more classic slasher movies similar to \"Friday the 13th (1980)\" and \"Halloween (1978)\"."
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "19.7",
+            "22.0",
+            "15.3"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "it would have assured me that the system Decreased confidenceion was in the genre",
+            "It is already clear from the summary what kind of movie the user is looking for.",
+            "The user originally wanted classic slasher movies, and the AI was recommending a newer movie in that genre here, so it would've helped to see if the conversation had progressed to talking about newer movies."
+        ],
+        "user-preference": [
+            "yes",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "1"
+        ]
+    },
+    "cb3aaa34346c433b8315bfb0d9876b58": {
+        "": [
+            "69",
+            "70",
+            "71"
+        ],
+        "user5": [
+            "Ohh, okay. No worries. Any other animation suggestion?",
+            "Ohh, okay. No worries. Any other animation suggestion?",
+            "Ohh, okay. No worries. Any other animation suggestion?"
+        ],
+        "system5": [
+            "\"Kung Fu Panda (2008)\" is pretty good.",
+            "\"Kung Fu Panda (2008)\" is pretty good.",
+            "\"Kung Fu Panda (2008)\" is pretty good."
+        ],
+        "summary": [
+            "User wants to find a movie recommendation that is similar to \"Finding Dory (2016)\" but a newer release.",
+            "User wants to find a movie recommendation that is similar to \"Finding Dory (2016)\" but a newer release.",
+            "User wants to find a movie recommendation that is similar to \"Finding Dory (2016)\" but a newer release."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "31.9",
+            "56.2",
+            "5.8"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "It was already clear what user liked.",
+            "needed more info",
+            "The recommendation definitely fits into the style/genre the user wants with the given info, but it's also older than what they asked for. More context might help me understand if that's something the user might overlook and if it's a good recommendation."
+        ],
+        "user-preference": [
+            "yes",
+            "yes",
+            "somehow"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "relevance": [
+            "1",
+            "0",
+            "1"
+        ]
+    },
+    "d3b61b6a32cd49c6aa3681fead16ed1b": {
+        "": [
+            "72",
+            "73",
+            "74"
+        ],
+        "user5": [
+            "She loves \"Finding Dory (2016)\" and \"Trolls  (2016)\"",
+            "She loves \"Finding Dory (2016)\" and \"Trolls  (2016)\"",
+            "She loves \"Finding Dory (2016)\" and \"Trolls  (2016)\""
+        ],
+        "system5": [
+            "I love those movies total kid at heart lol",
+            "I love those movies total kid at heart lol",
+            "I love those movies total kid at heart lol"
+        ],
+        "summary": [
+            "User wants to find a children's movie recommendation that is suitable for both boys and girls.",
+            "User wants to find a children's movie recommendation that is suitable for both boys and girls.",
+            "User wants to find a children's movie recommendation that is suitable for both boys and girls."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "6.3",
+            "6.3",
+            "39.5"
+        ],
+        "ease-of-evaluation": [
+            "much-more-difficult",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "since i don't know what they recomended it would have helped a lot",
+            "The AI did not recommend a movie in the highlighted dialogue, so I did not need to read more this time.",
+            "If there is not movie recommended, at this point the system isn't useful and that makes it an easy choice."
+        ],
+        "user-preference": [
+            "not-at-all",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "neutral"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "f861d4a8ee22411da7cb5bed9dfffa12": {
+        "": [
+            "75",
+            "76",
+            "77"
+        ],
+        "user5": [
+            "Yes I have, those movies are classics.",
+            "Yes I have, those movies are classics.",
+            "Yes I have, those movies are classics."
+        ],
+        "system5": [
+            "am happy you like them well thanks for your suggestion have a good one",
+            "am happy you like them well thanks for your suggestion have a good one",
+            "am happy you like them well thanks for your suggestion have a good one"
+        ],
+        "summary": [
+            "The user wants to find horror movies similar to \"The Texas Chainsaw Massacre (2003)\" and \"Ouija (2014)\" that have unexpected endings and are scary.",
+            "The user wants to find horror movies similar to \"The Texas Chainsaw Massacre (2003)\" and \"Ouija (2014)\" that have unexpected endings and are scary.",
+            "The user wants to find horror movies similar to \"The Texas Chainsaw Massacre (2003)\" and \"Ouija (2014)\" that have unexpected endings and are scary."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "17.5",
+            "38.4",
+            "31.6"
+        ],
+        "ease-of-evaluation": [
+            "much-more-difficult",
+            "much-easy",
+            "somewhat-more-difficult"
+        ],
+        "feedback": [
+            "The dialogue was very generic.",
+            "It's easy to mark as not relevant when there's no film mentioned",
+            "With only two utterances and the system thanking the user for something I needed more.  Neither one of the two utterances had movie titles in them."
+        ],
+        "user-preference": [
+            "not-at-all",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "not-very-useful",
+            "not-very-useful",
+            "not-very-useful"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "0430c88f5a4b4ee09970ddcdcaec4c49": {
+        "": [
+            "78",
+            "79",
+            "80"
+        ],
+        "user5": [
+            "haha i liked \"Jaws \" that will always be a classic",
+            "haha i liked \"Jaws \" that will always be a classic",
+            "haha i liked \"Jaws \" that will always be a classic"
+        ],
+        "system5": [
+            "\"Jaws 3-D (1983)\" and \"Jaws: The Revenge (1987)\" were both pretty bad. Is there anything else I can help you with tonight? Or have you chosen a movie?",
+            "\"Jaws 3-D (1983)\" and \"Jaws: The Revenge (1987)\" were both pretty bad. Is there anything else I can help you with tonight? Or have you chosen a movie?",
+            "\"Jaws 3-D (1983)\" and \"Jaws: The Revenge (1987)\" were both pretty bad. Is there anything else I can help you with tonight? Or have you chosen a movie?"
+        ],
+        "summary": [
+            "The user wants to find a horror movie to watch for the evening.",
+            "The user wants to find a horror movie to watch for the evening.",
+            "The user wants to find a horror movie to watch for the evening."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "24.5",
+            "54.8",
+            "93.1"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-more-difficult",
+            "much-more-difficult",
+            "neutral"
+        ],
+        "feedback": [
+            "The movies in the highlighted response are something the system isn't even really recommending, but talking bad about. However, the movies do fit into the summary request, and the user explicitly stated they like the original, so they could be relevant to the user despite the system failing to sell it. Regardless, more context could help me understand the user's tastes better.",
+            "It was just banter, not supposed to be a recommendation.",
+            "you have to read between the lines, it seems like the user hasnt seen the jaws remakes, but the system dislikes those movies"
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "neutral",
+            "very-useful"
+        ],
+        "relevance": [
+            "1",
+            "0",
+            "1"
+        ]
+    },
+    "be897e9926844ccea2de72700bdc3e98": {
+        "": [
+            "81",
+            "82",
+            "83"
+        ],
+        "user5": [
+            "Thanks for the suggestion, but I'm looking for a family-friendly movie to watch with my boys.",
+            "Thanks for the suggestion, but I'm looking for a family-friendly movie to watch with my boys.",
+            "Thanks for the suggestion, but I'm looking for a family-friendly movie to watch with my boys."
+        ],
+        "system5": [
+            "For a family movie, I'd recommend \"The Lion King (1994)\" \u2013 a classic animated film with a heartwarming story suitable for all ages.",
+            "For a family movie, I'd recommend \"The Lion King (1994)\" \u2013 a classic animated film with a heartwarming story suitable for all ages.",
+            "For a family movie, I'd recommend \"The Lion King (1994)\" \u2013 a classic animated film with a heartwarming story suitable for all ages."
+        ],
+        "summary": [
+            "The user wants to find a good family movie similar to \"Real Steel (2011)\" or \"The Lego Movie (2014)\" for him and his sons.",
+            "The user wants to find a good family movie similar to \"Real Steel (2011)\" or \"The Lego Movie (2014)\" for him and his sons.",
+            "The user wants to find a good family movie similar to \"Real Steel (2011)\" or \"The Lego Movie (2014)\" for him and his sons."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "130.4",
+            "5.2",
+            "90.7"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "the system recommended a movie that fit what the user was looking for",
+            "It was somewhat the right genre but not quite what the user was looking for.",
+            "The summary explained what they want."
+        ],
+        "user-preference": [
+            "yes",
+            "somehow",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "not-very-useful"
+        ],
+        "relevance": [
+            "1",
+            "0",
+            "1"
+        ]
+    },
+    "777dbbff2bf54099a39e2389aa63c662": {
+        "": [
+            "84",
+            "85",
+            "86"
+        ],
+        "user5": [
+            "My niece does not enjoy romance movies. Any other suggestions?",
+            "My niece does not enjoy romance movies. Any other suggestions?",
+            "My niece does not enjoy romance movies. Any other suggestions?"
+        ],
+        "system5": [
+            "\"The Fault in Our Stars  (2014)\" also stars Woodley, a young cancer patient who falls in love!",
+            "\"The Fault in Our Stars  (2014)\" also stars Woodley, a young cancer patient who falls in love!",
+            "\"The Fault in Our Stars  (2014)\" also stars Woodley, a young cancer patient who falls in love!"
+        ],
+        "summary": [
+            "The user wants to find coming of age movie recommendations similar to \"My Girl (1991)\" and \"Lucas (1986)\" that they can watch with their niece.",
+            "The user wants to find coming of age movie recommendations similar to \"My Girl (1991)\" and \"Lucas (1986)\" that they can watch with their niece.",
+            "The user wants to find coming of age movie recommendations similar to \"My Girl (1991)\" and \"Lucas (1986)\" that they can watch with their niece."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "17.9",
+            "14.7",
+            "46.3"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "User said that they were not interested in romance movies.",
+            "The system was already not listening to the user, it would not change anything",
+            "In the given history, user states no romance movies."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "somewhat-useful",
+            "neutral"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "94eccc1d29304f06817ac6b61af23723": {
+        "": [
+            "87",
+            "88",
+            "89"
+        ],
+        "user5": [
+            "I like old movies too. i really liked \"A Patch of Blue (1965).\" So an older movie may be nice",
+            "I like old movies too. i really liked \"A Patch of Blue (1965).\" So an older movie may be nice",
+            "I like old movies too. i really liked \"A Patch of Blue (1965).\" So an older movie may be nice"
+        ],
+        "system5": [
+            "yeah i really liked \"The Notebook (2004)\" not only my favorite movie but also my favorite actor is in it aswell.",
+            "yeah i really liked \"The Notebook (2004)\" not only my favorite movie but also my favorite actor is in it aswell.",
+            "yeah i really liked \"The Notebook (2004)\" not only my favorite movie but also my favorite actor is in it aswell."
+        ],
+        "summary": [
+            "The user wants to find a new dramatic love story movie that they have not seen before.",
+            "The user wants to find a new dramatic love story movie that they have not seen before.",
+            "The user wants to find a new dramatic love story movie that they have not seen before."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "21.5",
+            "25.0",
+            "31.9"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "not a whole lot of info",
+            "It would give me a better idea of how accurate the bot was.",
+            "From the summary and dialog I know what they want."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "0b5e7963cebc4c28a79a104a0db0f11d": {
+        "": [
+            "90",
+            "91",
+            "92"
+        ],
+        "user5": [
+            "True. Good recommendations we like similar shows.",
+            "True. Good recommendations we like similar shows.",
+            "True. Good recommendations we like similar shows."
+        ],
+        "system5": [
+            "I am also a fan of \"Fast & Furious 6 (2013)\"",
+            "I am also a fan of \"Fast & Furious 6 (2013)\"",
+            "I am also a fan of \"Fast & Furious 6 (2013)\""
+        ],
+        "summary": [
+            "The user wants to find funny animated movie recommendations suitable for adults, similar to \"The Incredibles (2004)\" and \"Monsters, Inc. (2001)\".",
+            "The user wants to find funny animated movie recommendations suitable for adults, similar to \"The Incredibles (2004)\" and \"Monsters, Inc. (2001)\".",
+            "The user wants to find funny animated movie recommendations suitable for adults, similar to \"The Incredibles (2004)\" and \"Monsters, Inc. (2001)\"."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "11.4",
+            "14.3",
+            "25.6"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "The recommendation made is clearly not an animated movie like the user requested according to the summary. However, the user praised the system's recommendations so maybe more context would help me understand why the system decided to go for a recommendation so outside of the request in the summary.",
+            "The information provided was enough to judge the system",
+            "It was clear this was not what the uer wanted."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "26eef28b602f427980663ffad1f1ed47": {
+        "": [
+            "93",
+            "94",
+            "95"
+        ],
+        "user5": [
+            "I haven't seen \"First Kill (2001)\" yet? What is it about? What Genre does it fall under?",
+            "I haven't seen \"First Kill (2001)\" yet? What is it about? What Genre does it fall under?",
+            "I haven't seen \"First Kill (2001)\" yet? What is it about? What Genre does it fall under?"
+        ],
+        "system5": [
+            "\"Kahaani (2012)\" is sort of a crime thriller. ",
+            "\"Kahaani (2012)\" is sort of a crime thriller. ",
+            "\"Kahaani (2012)\" is sort of a crime thriller. "
+        ],
+        "summary": [
+            "The user wants a recommendation for a Crime/Thriller movie that the whole family can enjoy, similar to \"Thor: Ragnarok (2017)\".",
+            "The user wants a recommendation for a Crime/Thriller movie that the whole family can enjoy, similar to \"Thor: Ragnarok (2017)\".",
+            "The user wants a recommendation for a Crime/Thriller movie that the whole family can enjoy, similar to \"Thor: Ragnarok (2017)\"."
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "38.5",
+            "186.9",
+            "13.3"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "The system ignored the user's question",
+            "User's question seemed to be ignored.",
+            "While this movie is somewhat fitting given the request in the summary, those requests are broad and more history could definitely help as this isn't your most typical thriller."
+        ],
+        "user-preference": [
+            "somehow",
+            "somehow",
+            "somehow"
+        ],
+        "context-usefulness": [
+            "not-very-useful",
+            "neutral",
+            "somewhat-useful"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "1"
+        ]
+    },
+    "47a0c60dcab44935b65cf775362bc7b4": {
+        "": [
+            "96",
+            "97",
+            "98"
+        ],
+        "user5": [
+            "I didn't exactly like the scene.",
+            "I didn't exactly like the scene.",
+            "I didn't exactly like the scene."
+        ],
+        "system5": [
+            "And if you are interested by the boogey man, you can't go wrong with \"Halloween  (1978)\" , \"A Nightmare on Elm Street (1984)\" , and \"Friday the 13th  (1980)\"",
+            "And if you are interested by the boogey man, you can't go wrong with \"Halloween  (1978)\" , \"A Nightmare on Elm Street (1984)\" , and \"Friday the 13th  (1980)\"",
+            "And if you are interested by the boogey man, you can't go wrong with \"Halloween  (1978)\" , \"A Nightmare on Elm Street (1984)\" , and \"Friday the 13th  (1980)\""
+        ],
+        "summary": [
+            "The user wants to receive recommendations for non-gory horror movies.",
+            "The user wants to receive recommendations for non-gory horror movies.",
+            "The user wants to receive recommendations for non-gory horror movies."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "20.1",
+            "24.3",
+            "163.6"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-more-difficult",
+            "much-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "not a whole lot of info",
+            "i think my judgments are as accurate as can be",
+            "It might be helpful to know how bogey man movies came up. However, the summary says that the user is looking for non gory horror movies and the highlighted films are pretty gory."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "0",
+            "1",
+            "0"
+        ]
+    },
+    "d2b69c60334b4cc29413942ad11e6973": {
+        "": [
+            "99",
+            "100",
+            "101"
+        ],
+        "user5": [
+            "No I don't want action movies.",
+            "No I don't want action movies.",
+            "No I don't want action movies."
+        ],
+        "system5": [
+            "If you are looking for creepy \"The Strangers: Prey at Night (2018)\" is out now. the reviews were not good though.",
+            "If you are looking for creepy \"The Strangers: Prey at Night (2018)\" is out now. the reviews were not good though.",
+            "If you are looking for creepy \"The Strangers: Prey at Night (2018)\" is out now. the reviews were not good though."
+        ],
+        "summary": [
+            "The user wants to watch the original \"It (1990)\" movie in a theater.",
+            "The user wants to watch the original \"It (1990)\" movie in a theater.",
+            "The user wants to watch the original \"It (1990)\" movie in a theater."
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "Decreased confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "10.9",
+            "34.2",
+            "17.2"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-more-difficult",
+            "somewhat-easy",
+            "neutral"
+        ],
+        "feedback": [
+            "The information given between both the summary and history are just that the user doesn't want action movies and they're interested in a particualr horror movie. While the recommendation kinda fits that, more context would definitely help as the context given is pretty limited.",
+            "It seems from the previous information that the user wants a scary movie.",
+            "There i s no explaination of what movie type was desired"
+        ],
+        "user-preference": [
+            "somehow",
+            "somehow",
+            "not-at-all"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "somewhat-useful",
+            "neutral"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "8d152ee4626d4372affc8a32956f996c": {
+        "": [
+            "102",
+            "103",
+            "104"
+        ],
+        "user5": [
+            "no I haven't seen that one I might have to check it out",
+            "no I haven't seen that one I might have to check it out",
+            "no I haven't seen that one I might have to check it out"
+        ],
+        "system5": [
+            "You're welcome",
+            "You're welcome",
+            "You're welcome"
+        ],
+        "summary": [
+            "The user wants movie recommendations, particularly in the comedy genre.",
+            "The user wants movie recommendations, particularly in the comedy genre.",
+            "The user wants movie recommendations, particularly in the comedy genre."
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "9.1",
+            "4.2",
+            "44.2"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "not a whole lot of influence",
+            "There was no recommendation so more history wouldn't help.",
+            "The system was only saying you're welcome."
+        ],
+        "user-preference": [
+            "not-at-all",
+            "no-summary",
+            "no-summary"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "not-very-useful",
+            "not-very-useful"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "656958cafc154f349c84bba7903a8c3a": {
+        "": [
+            "105",
+            "106",
+            "107"
+        ],
+        "user5": [
+            "yeah it can be hard to find good ones to watch that aren't too corny",
+            "yeah it can be hard to find good ones to watch that aren't too corny",
+            "yeah it can be hard to find good ones to watch that aren't too corny"
+        ],
+        "system5": [
+            "\"Dark Water  (2005)\" was another one.",
+            "\"Dark Water  (2005)\" was another one.",
+            "\"Dark Water  (2005)\" was another one."
+        ],
+        "summary": [
+            "The user wants to get recommendations for suspenseful, spooky, and thrilling movies that are not too gory. They have enjoyed watching \"The Conjuring (2013)\" and are interested in seeing \"1408 (2007)\".",
+            "The user wants to get recommendations for suspenseful, spooky, and thrilling movies that are not too gory. They have enjoyed watching \"The Conjuring (2013)\" and are interested in seeing \"1408 (2007)\".",
+            "The user wants to get recommendations for suspenseful, spooky, and thrilling movies that are not too gory. They have enjoyed watching \"The Conjuring (2013)\" and are interested in seeing \"1408 (2007)\"."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "58.3",
+            "14.2",
+            "11.4"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-more-difficult",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "The summary supplied several titles and explained the kind of films the user likes. The system provided a film like those, so it could be determined relevant without any further information.",
+            "not much usefulness",
+            "The recommendation meets all the requirements set in the summary. It's possible more info would help narrow down the user's preferences, but I think it's unlikely and it's pretty clear that it was a decent recommendation based on the summary."
+        ],
+        "user-preference": [
+            "yes",
+            "somehow",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "f1a9a31b007345d0b0fb4cd163b1bec7": {
+        "": [
+            "108",
+            "109",
+            "110"
+        ],
+        "user5": [
+            "any gorry kind? i love blood and guts like zombie movies",
+            "any gorry kind? i love blood and guts like zombie movies",
+            "any gorry kind? i love blood and guts like zombie movies"
+        ],
+        "system5": [
+            "I like \"Dawn of the Dead  (2004)\"",
+            "I like \"Dawn of the Dead  (2004)\"",
+            "I like \"Dawn of the Dead  (2004)\""
+        ],
+        "summary": [
+            "The user wants recommendations for gore and ghost movies.",
+            "The user wants recommendations for gore and ghost movies.",
+            "The user wants recommendations for gore and ghost movies."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "79.9",
+            "12.9",
+            "3.1"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "The user asked for a gory zombie movie and got just that with the system's recommendation of \"Dawn of the Dead\".  No further information needed to establish relevance.",
+            "There was enough here for me to ascertain that the user likes gory movies and zombie movies, so seeing more of the dialogue wouldn't make my assessment more accurate.",
+            "It already seems to be clear what the user wanted."
+        ],
+        "user-preference": [
+            "somehow",
+            "somehow",
+            "yes"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "6edd66b09c544857956553b50fbaea16": {
+        "": [
+            "111",
+            "112",
+            "113"
+        ],
+        "user5": [
+            "Umm oalf and sphen",
+            "Umm oalf and sphen",
+            "Umm oalf and sphen"
+        ],
+        "system5": [
+            "Mine is definitely Olaf.",
+            "Mine is definitely Olaf.",
+            "Mine is definitely Olaf."
+        ],
+        "summary": [
+            "The user wants to discuss various Disney movies including \"Up\", \"Brave\", \"Frozen\" and \"Toy Story 3\", and explore the characters in these films.",
+            "The user wants to discuss various Disney movies including \"Up\", \"Brave\", \"Frozen\" and \"Toy Story 3\", and explore the characters in these films.",
+            "The user wants to discuss various Disney movies including \"Up\", \"Brave\", \"Frozen\" and \"Toy Story 3\", and explore the characters in these films."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "18.4",
+            "13.4",
+            "2.9"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "not a whole lot of info",
+            "they're giving opinions about characters, previous dialogue would not affect",
+            "More history wouldn't matter as there's no recommendation made."
+        ],
+        "user-preference": [
+            "not-at-all",
+            "yes",
+            "no-summary"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "neutral",
+            "not-very-useful"
+        ],
+        "relevance": [
+            "0",
+            "1",
+            "0"
+        ]
+    },
+    "e75f594947b9498182daba57dc00211b": {
+        "": [
+            "114",
+            "115",
+            "116"
+        ],
+        "user5": [
+            "That sounds good. Yep. Haven't seen those two",
+            "That sounds good. Yep. Haven't seen those two",
+            "That sounds good. Yep. Haven't seen those two"
+        ],
+        "system5": [
+            "cool, check out \"The Notebook (2004)\" if you like",
+            "cool, check out \"The Notebook (2004)\" if you like",
+            "cool, check out \"The Notebook (2004)\" if you like"
+        ],
+        "summary": [
+            "The user wants to find a romantic comedy similar to \"While You Were Sleeping (1995)\" or \"The Proposal (2009)\".",
+            "The user wants to find a romantic comedy similar to \"While You Were Sleeping (1995)\" or \"The Proposal (2009)\".",
+            "The user wants to find a romantic comedy similar to \"While You Were Sleeping (1995)\" or \"The Proposal (2009)\"."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Decreased confidence"
+        ],
+        "task-duration": [
+            "10.7",
+            "143.6",
+            "8.0"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-more-difficult",
+            "much-easy",
+            "somewhat-more-difficult"
+        ],
+        "feedback": [
+            "not a whole lot of info",
+            "I saw enough to see the user already got good recommendations. System is just recommending another.",
+            "I could find out more about what the user likes. The summary says they wanted a rom com but this is not really a comedy."
+        ],
+        "user-preference": [
+            "somehow",
+            "yes",
+            "somehow"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "0"
+        ]
+    },
+    "fd65571636de4c0aadcd5a85dc4dfa02": {
+        "": [
+            "117",
+            "118",
+            "119"
+        ],
+        "user5": [
+            "Do you mean Channing Tatum?",
+            "Do you mean Channing Tatum?",
+            "Do you mean Channing Tatum?"
+        ],
+        "system5": [
+            "I always would recommend these movies including the ones you have seen already like \"A Walk to Remember (2002).\" Yes, sorry",
+            "I always would recommend these movies including the ones you have seen already like \"A Walk to Remember (2002).\" Yes, sorry",
+            "I always would recommend these movies including the ones you have seen already like \"A Walk to Remember (2002).\" Yes, sorry"
+        ],
+        "summary": [
+            "The user wants to find a good drama movie to watch, preferably something similar to Nicholas Sparks movies such as \"A Walk to Remember\" and \"The Notebook\". They are considering either \"Dear John\" or \"Message in a Bottle\", and need information",
+            "The user wants to find a good drama movie to watch, preferably something similar to Nicholas Sparks movies such as \"A Walk to Remember\" and \"The Notebook\". They are considering either \"Dear John\" or \"Message in a Bottle\", and need information",
+            "The user wants to find a good drama movie to watch, preferably something similar to Nicholas Sparks movies such as \"A Walk to Remember\" and \"The Notebook\". They are considering either \"Dear John\" or \"Message in a Bottle\", and need information"
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "task-duration": [
+            "63.5",
+            "33.7",
+            "12.4"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-more-difficult",
+            "much-more-difficult",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "The systems recommendations appear to be missing.",
+            "Very hard to evaluate. The system is talking about things impossible to know without further context and talks about movies  the user has admitted to seeing.",
+            "The summary makes clear that the movie listed in the highlighted system post is something the user themselves brought up, so it's clear that the system message either isn't really a recommendation, or is just a useless recommendation."
+        ],
+        "user-preference": [
+            "yes",
+            "somehow",
+            "yes"
+        ],
+        "context-usefulness": [
+            "not-very-useful",
+            "neutral",
+            "very-useful"
+        ],
+        "relevance": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "4895638e4b144816bf6ea90615870f55": {
+        "": [
+            "120",
+            "121",
+            "122"
+        ],
+        "user5": [
+            "I haven't seen Hook. That sounds like a winner in my book. I'll see if I can find it. Yes, I seen Patch Adams. I think that was a cry for help on his part.",
+            "I haven't seen Hook. That sounds like a winner in my book. I'll see if I can find it. Yes, I seen Patch Adams. I think that was a cry for help on his part.",
+            "I haven't seen Hook. That sounds like a winner in my book. I'll see if I can find it. Yes, I seen Patch Adams. I think that was a cry for help on his part."
+        ],
+        "system5": [
+            "\"Jack  (1996)\" is also another Robin Williams classic you can also get on DVD.",
+            "\"Jack  (1996)\" is also another Robin Williams classic you can also get on DVD.",
+            "\"Jack  (1996)\" is also another Robin Williams classic you can also get on DVD."
+        ],
+        "summary": [
+            "The user wants to get recommendations for comedy movies featuring Robin Williams that are available on DVD.",
+            "The user wants to get recommendations for comedy movies featuring Robin Williams that are available on DVD.",
+            "The user wants to get recommendations for comedy movies featuring Robin Williams that are available on DVD."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "No effect on confidence"
+        ],
+        "task-duration": [
+            "140.8",
+            "21.7",
+            "29.0"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "In seems that the system is on the right track with Robin Williams comedies. There is a lot of drama in it also, but it is relevant to the user's request.",
+            "The recommendation was exactly what the user was talking about and what the summary explained.",
+            "easy to ascertain what's being requested based on info given"
+        ],
+        "user-preference": [
+            "yes",
+            "yes",
+            "yes"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "relevance": [
+            "1",
+            "1",
+            "1"
+        ]
+    }
+}
