@@ -1,0 +1,3159 @@
+{
+    "8a0b31ee9a1b470ba35e0c4c89e2017d": {
+        "": [
+            "0",
+            "1",
+            "2"
+        ],
+        "system3": [
+            "I see. What about \"The Usual Suspects (1995)\" ?",
+            "I see. What about \"The Usual Suspects (1995)\" ?",
+            "I see. What about \"The Usual Suspects (1995)\" ?"
+        ],
+        "user4": [
+            "Kaiser Soze...although now that has a bit of a tainted experience with Kevin Spacey I do love that movie..",
+            "Kaiser Soze...although now that has a bit of a tainted experience with Kevin Spacey I do love that movie..",
+            "Kaiser Soze...although now that has a bit of a tainted experience with Kevin Spacey I do love that movie.."
+        ],
+        "system4": [
+            "Yeah. Hated to hear the latest news about his past. Sucks. But he's a phenomenal actor.",
+            "Yeah. Hated to hear the latest news about his past. Sucks. But he's a phenomenal actor.",
+            "Yeah. Hated to hear the latest news about his past. Sucks. But he's a phenomenal actor."
+        ],
+        "user5": [
+            "i agree...one of the best. do yu have another suggestions for something similiar to those",
+            "i agree...one of the best. do yu have another suggestions for something similiar to those",
+            "i agree...one of the best. do yu have another suggestions for something similiar to those"
+        ],
+        "system5": [
+            "Have you seen \"Seven\" or \"L.A. Confidential  (1997)\" ? Spacey's in both",
+            "Have you seen \"Seven\" or \"L.A. Confidential  (1997)\" ? Spacey's in both",
+            "Have you seen \"Seven\" or \"L.A. Confidential  (1997)\" ? Spacey's in both"
+        ],
+        "user6": [
+            "Maybe I will heck that one out my spelling is atrocious today",
+            "Maybe I will heck that one out my spelling is atrocious today",
+            "Maybe I will heck that one out my spelling is atrocious today"
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "32.2",
+            "17.2",
+            "17.9"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "I can't tell what kind of movies the user was originally asking for, so it would help to see the beginning of the conversation.",
+            "The dialogue given gave me plenty of information to allow me to make a good judgment.",
+            "The user agreed with the system that it was a good suggestion."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "2",
+            "2",
+            "2"
+        ]
+    },
+    "623609104882448884098ea6acfe2759": {
+        "": [
+            "3",
+            "4",
+            "5"
+        ],
+        "system3": [
+            "\"Blazing Saddles (1974)\" is even funnier",
+            "\"Blazing Saddles (1974)\" is even funnier",
+            "\"Blazing Saddles (1974)\" is even funnier"
+        ],
+        "user4": [
+            "I havent watched those movie which is sad. I would definitely check those out!",
+            "I havent watched those movie which is sad. I would definitely check those out!",
+            "I havent watched those movie which is sad. I would definitely check those out!"
+        ],
+        "system4": [
+            "watch \"Ghostbusters (1984)\" Then watch \"Ghostbusters  (2016)\"",
+            "watch \"Ghostbusters (1984)\" Then watch \"Ghostbusters  (2016)\"",
+            "watch \"Ghostbusters (1984)\" Then watch \"Ghostbusters  (2016)\""
+        ],
+        "user5": [
+            "A timeless classic. EeeW!",
+            "A timeless classic. EeeW!",
+            "A timeless classic. EeeW!"
+        ],
+        "system5": [
+            "Try those and compare and contrast",
+            "Try those and compare and contrast",
+            "Try those and compare and contrast"
+        ],
+        "user6": [
+            "NO",
+            "NO",
+            "NO"
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "4.3",
+            "61.6",
+            "21.5"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "I just feel like seeing the entire conversation is always the most helpful thing possible. I still can't really tell what the user wanted to hear about with only 6 bits of the dialogue.",
+            "I wanted to understand the conversation and reasoning of the system.",
+            "It was clear that the user was not interested from the given utterances."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "yes",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "0",
+            "1",
+            "0"
+        ]
+    },
+    "6a2caca04cb9468e929f25a43b60d5bc": {
+        "": [
+            "6",
+            "7",
+            "8"
+        ],
+        "system3": [
+            "Sure thing! If you're open to something different, how about a heartwarming comedy like \"Forrest Gump  (1994)\" or an intense action-thriller like \"The Dark Knight  (2008)?\"",
+            "Sure thing! If you're open to something different, how about a heartwarming comedy like \"Forrest Gump  (1994)\" or an intense action-thriller like \"The Dark Knight  (2008)?\"",
+            "Sure thing! If you're open to something different, how about a heartwarming comedy like \"Forrest Gump  (1994)\" or an intense action-thriller like \"The Dark Knight  (2008)?\""
+        ],
+        "user4": [
+            "Hmm, those are interesting choices. But let's stick with mystery movies for now. Have you heard of \"Gone Girl  (2014)\"?",
+            "Hmm, those are interesting choices. But let's stick with mystery movies for now. Have you heard of \"Gone Girl  (2014)\"?",
+            "Hmm, those are interesting choices. But let's stick with mystery movies for now. Have you heard of \"Gone Girl  (2014)\"?"
+        ],
+        "system4": [
+            "Absolutely, \"Gone Girl  (2014)\" is a gripping mystery with unexpected twists. You're in for a thrilling ride!",
+            "Absolutely, \"Gone Girl  (2014)\" is a gripping mystery with unexpected twists. You're in for a thrilling ride!",
+            "Absolutely, \"Gone Girl  (2014)\" is a gripping mystery with unexpected twists. You're in for a thrilling ride!"
+        ],
+        "user5": [
+            "Thanks for the recommendation. I've also been in the mood for some science fiction lately. Any suggestions in that genre?",
+            "Thanks for the recommendation. I've also been in the mood for some science fiction lately. Any suggestions in that genre?",
+            "Thanks for the recommendation. I've also been in the mood for some science fiction lately. Any suggestions in that genre?"
+        ],
+        "system5": [
+            "Of course! If you're looking for captivating sci-fi, consider watching \"Inception  (2010)\" or \"Blade Runner 2049  (2017).\" Both offer mind-bending experiences.",
+            "Of course! If you're looking for captivating sci-fi, consider watching \"Inception  (2010)\" or \"Blade Runner 2049  (2017).\" Both offer mind-bending experiences.",
+            "Of course! If you're looking for captivating sci-fi, consider watching \"Inception  (2010)\" or \"Blade Runner 2049  (2017).\" Both offer mind-bending experiences."
+        ],
+        "user6": [
+            "That sounds intriguing",
+            "That sounds intriguing",
+            "That sounds intriguing"
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "not-very-useful"
+        ],
+        "task-duration": [
+            "28.6",
+            "68.2",
+            "22.1"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "I was able to judge the system responses  based on the user's responses.",
+            "User indicated they were interested in the genre then they were intrigued by the suggestion.",
+            "The user mentions the specific genre that they are interested in."
+        ],
+        "inclusion-of-history": [
+            "no",
+            "no",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "neutral"
+        ],
+        "usefulness": [
+            "2",
+            "2",
+            "2"
+        ]
+    },
+    "45ccb992095e4fb4bdd585c9fa9dbd36": {
+        "": [
+            "9",
+            "10",
+            "11"
+        ],
+        "system3": [
+            "Have you seen \"Scream 2 (1997)\" ?",
+            "Have you seen \"Scream 2 (1997)\" ?",
+            "Have you seen \"Scream 2 (1997)\" ?"
+        ],
+        "user4": [
+            "havent seen \"Sinister  (2012)\" yet, I heard that it was good yeah i have seen all of those movies",
+            "havent seen \"Sinister  (2012)\" yet, I heard that it was good yeah i have seen all of those movies",
+            "havent seen \"Sinister  (2012)\" yet, I heard that it was good yeah i have seen all of those movies"
+        ],
+        "system4": [
+            "Sinister got good reviews and they made a sequel \"Sinister 2 (2015)\"",
+            "Sinister got good reviews and they made a sequel \"Sinister 2 (2015)\"",
+            "Sinister got good reviews and they made a sequel \"Sinister 2 (2015)\""
+        ],
+        "user5": [
+            "oh wow, I didn't know that",
+            "oh wow, I didn't know that",
+            "oh wow, I didn't know that"
+        ],
+        "system5": [
+            "\"Mother! (2017)\" and \"Get Out (2017)\" are both scary but not as much gore.",
+            "\"Mother! (2017)\" and \"Get Out (2017)\" are both scary but not as much gore.",
+            "\"Mother! (2017)\" and \"Get Out (2017)\" are both scary but not as much gore."
+        ],
+        "user6": [
+            "I rather watch something like that thank you for your help",
+            "I rather watch something like that thank you for your help",
+            "I rather watch something like that thank you for your help"
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "33.4",
+            "69.7",
+            "31.0"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "It would depend upon the relevance",
+            "The dialogue that is present shows that the system understands the user's tastes and the recommendations were appropriate. A gave the response a high usefulness rating even though the highlighted response does not meet all the criteria. Based on the last three days, none of the highlighted snippets accomplish that and this snippet should rate above moderate usefulness.",
+            "THE USER WAS OBVIOUSLY HAPPY WITH THE SYSTEM"
+        ],
+        "inclusion-of-history": [
+            "no",
+            "no",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "2",
+            "2",
+            "2"
+        ]
+    },
+    "6981e37946204e35b13f2eb44731724d": {
+        "": [
+            "12",
+            "13",
+            "14"
+        ],
+        "system3": [
+            "Have you seen \"Fahrenheit 9/11 (2004)?\" That was a pretty enjoyable one.",
+            "Have you seen \"Fahrenheit 9/11 (2004)?\" That was a pretty enjoyable one.",
+            "Have you seen \"Fahrenheit 9/11 (2004)?\" That was a pretty enjoyable one."
+        ],
+        "user4": [
+            "It is about the Russian Olympic scientist that was caught cheating and he fled to the US to seek asylum.",
+            "It is about the Russian Olympic scientist that was caught cheating and he fled to the US to seek asylum.",
+            "It is about the Russian Olympic scientist that was caught cheating and he fled to the US to seek asylum."
+        ],
+        "system4": [
+            "Oh wow. That sounds like a good one.",
+            "Oh wow. That sounds like a good one.",
+            "Oh wow. That sounds like a good one."
+        ],
+        "user5": [
+            "I think I've seen it I don't remember. It's on Netflix go watch it really good.",
+            "I think I've seen it I don't remember. It's on Netflix go watch it really good.",
+            "I think I've seen it I don't remember. It's on Netflix go watch it really good."
+        ],
+        "system5": [
+            "A really eye opening one is \"Super Size Me (2004).\" Have you seen that one?",
+            "A really eye opening one is \"Super Size Me (2004).\" Have you seen that one?",
+            "A really eye opening one is \"Super Size Me (2004).\" Have you seen that one?"
+        ],
+        "user6": [
+            "Thank you bye!",
+            "Thank you bye!",
+            "Thank you bye!"
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "Decreased confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "task-duration": [
+            "37.7",
+            "38.1",
+            "47.7"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-more-difficult",
+            "much-more-difficult",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "I may have been able to make more sense out of what the user was looking for.",
+            "We are not sure what type of movie that the user is interested in.",
+            "It would depend upon the relevance"
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "yes",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "somewhat-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "2404248706fa4770aec1c0b19e8f8b65": {
+        "": [
+            "15",
+            "16",
+            "17"
+        ],
+        "system3": [
+            "I am looking forward to seeing that and \"Mother  (2009)\"",
+            "I am looking forward to seeing that and \"Mother  (2009)\"",
+            "I am looking forward to seeing that and \"Mother  (2009)\""
+        ],
+        "user4": [
+            "what about \"The Cabin in the Woods\" oh mother was not good to me, it was very creepy, weird and creep creep lol",
+            "what about \"The Cabin in the Woods\" oh mother was not good to me, it was very creepy, weird and creep creep lol",
+            "what about \"The Cabin in the Woods\" oh mother was not good to me, it was very creepy, weird and creep creep lol"
+        ],
+        "system4": [
+            "I have not seen that movie yet either but horror films are my favorite genre",
+            "I have not seen that movie yet either but horror films are my favorite genre",
+            "I have not seen that movie yet either but horror films are my favorite genre"
+        ],
+        "user5": [
+            "what about \"Sinister  (2012)\"",
+            "what about \"Sinister  (2012)\"",
+            "what about \"Sinister  (2012)\""
+        ],
+        "system5": [
+            "The best movie i've seen recently is \"Kingsman: The Golden Circle\"",
+            "The best movie i've seen recently is \"Kingsman: The Golden Circle\"",
+            "The best movie i've seen recently is \"Kingsman: The Golden Circle\""
+        ],
+        "user6": [
+            "didnt really like that that much",
+            "didnt really like that that much",
+            "didnt really like that that much"
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "not-very-useful"
+        ],
+        "task-duration": [
+            "39.0",
+            "8.1",
+            "20.0"
+        ],
+        "ease-of-evaluation": [
+            "much-more-difficult",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "Seeing the beginning of the conversation would have been helpful, since I am not sure what kind of movies the user wanted to hear about.",
+            "User indicated at the end that they were not interested in the suggestion.",
+            "The user mentions a movie that they like"
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "neutral"
+        ],
+        "usefulness": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "e4416f04657b43d794f7fdb22e9c1a8c": {
+        "": [
+            "18",
+            "19",
+            "20"
+        ],
+        "system3": [
+            "It stars Owen Wilson and he is hilarious!",
+            "It stars Owen Wilson and he is hilarious!",
+            "It stars Owen Wilson and he is hilarious!"
+        ],
+        "user4": [
+            "I may enjoy it then",
+            "I may enjoy it then",
+            "I may enjoy it then"
+        ],
+        "system4": [
+            "The \"The Emoji Movie (2017)\" is cute for kids.",
+            "The \"The Emoji Movie (2017)\" is cute for kids.",
+            "The \"The Emoji Movie (2017)\" is cute for kids."
+        ],
+        "user5": [
+            "I don't think I woudl like that.",
+            "I don't think I woudl like that.",
+            "I don't think I woudl like that."
+        ],
+        "system5": [
+            "Also \"Coco  (2017)\" is a cute family movie that is new.",
+            "Also \"Coco  (2017)\" is a cute family movie that is new.",
+            "Also \"Coco  (2017)\" is a cute family movie that is new."
+        ],
+        "user6": [
+            "I don't have kids!",
+            "I don't have kids!",
+            "I don't have kids!"
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Decreased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "6.5",
+            "63.1",
+            "335.7"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "much-more-difficult"
+        ],
+        "feedback": [
+            "I could already tell that the user is frustrated that the system keeps recommending kids movies.",
+            "I wanted to understand the conversation and reasoning of the system.",
+            "We only know that the user does not want movies made for kids, and not why the system made the recommedation."
+        ],
+        "inclusion-of-history": [
+            "no",
+            "yes",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "0",
+            "1",
+            "0"
+        ]
+    },
+    "d247687170be473eab04b387b01c25b6": {
+        "": [
+            "21",
+            "22",
+            "23"
+        ],
+        "system3": [
+            "What about \"A Nightmare on Elm Street (1984)\" ?",
+            "What about \"A Nightmare on Elm Street (1984)\" ?",
+            "What about \"A Nightmare on Elm Street (1984)\" ?"
+        ],
+        "user4": [
+            "Oh, that one gave me nightmares but I loved it.",
+            "Oh, that one gave me nightmares but I loved it.",
+            "Oh, that one gave me nightmares but I loved it."
+        ],
+        "system4": [
+            "Freddy still creeps me out! How do you feel about \"Friday the 13th  (1980)\" ?",
+            "Freddy still creeps me out! How do you feel about \"Friday the 13th  (1980)\" ?",
+            "Freddy still creeps me out! How do you feel about \"Friday the 13th  (1980)\" ?"
+        ],
+        "user5": [
+            "I'm a little ashamed here, but I've never watched it. ",
+            "I'm a little ashamed here, but I've never watched it. ",
+            "I'm a little ashamed here, but I've never watched it. "
+        ],
+        "system5": [
+            "You totally should! And also watch \"It  (2017).\"",
+            "You totally should! And also watch \"It  (2017).\"",
+            "You totally should! And also watch \"It  (2017).\""
+        ],
+        "user6": [
+            "I personally thought the older one was much better!",
+            "I personally thought the older one was much better!",
+            "I personally thought the older one was much better!"
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "Increased confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "23.4",
+            "32.2",
+            "72.8"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "The user seemed happy with horror movies, but I can't see the start of the conversation to be sure of what they wanted.",
+            "I wanted to understand the conversation and reasoning of the system.",
+            "The system's recommendation was appropriate and I gave it a moderate rating, but is not nearly as involved as is required for the high usefulness rating, which I have not seen in any of the highlight portions over the last few days."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "yes",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "1",
+            "2",
+            "1"
+        ]
+    },
+    "4beaa89f10c444b2a61356d7d6cc4ccd": {
+        "": [
+            "24",
+            "25",
+            "26"
+        ],
+        "system3": [
+            "I don't really like action movies, either. I like comedies. \"@Die\" Hard wasn't bad, I guess",
+            "I don't really like action movies, either. I like comedies. \"@Die\" Hard wasn't bad, I guess",
+            "I don't really like action movies, either. I like comedies. \"@Die\" Hard wasn't bad, I guess"
+        ],
+        "user4": [
+            "Okay but the task is to suggest movies that I like. \"Die Hard (1988)\" is good.",
+            "Okay but the task is to suggest movies that I like. \"Die Hard (1988)\" is good.",
+            "Okay but the task is to suggest movies that I like. \"Die Hard (1988)\" is good."
+        ],
+        "system4": [
+            "I know, but if I don't like those movies, I can't help you",
+            "I know, but if I don't like those movies, I can't help you",
+            "I know, but if I don't like those movies, I can't help you"
+        ],
+        "user5": [
+            "Okay tell me the movies you like then.",
+            "Okay tell me the movies you like then.",
+            "Okay tell me the movies you like then."
+        ],
+        "system5": [
+            "I can suggest lots of great comedies based on your sense of humor Okay, well, my favorite is \"The Blues Brothers  (1980)\"",
+            "I can suggest lots of great comedies based on your sense of humor Okay, well, my favorite is \"The Blues Brothers  (1980)\"",
+            "I can suggest lots of great comedies based on your sense of humor Okay, well, my favorite is \"The Blues Brothers  (1980)\""
+        ],
+        "user6": [
+            "I will just try somewhere else for war movies.",
+            "I will just try somewhere else for war movies.",
+            "I will just try somewhere else for war movies."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Decreased confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "neutral"
+        ],
+        "task-duration": [
+            "27.8",
+            "33.0",
+            "43.8"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "The user's  responses make it clear that the system is ignoring the information provided by the user.",
+            "I could have found out more about preferences as it was not clear why they did not like the suggestion.",
+            "The system didn't seem helpful"
+        ],
+        "inclusion-of-history": [
+            "no",
+            "yes",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "19af52a5521f4a39916a67c180e7fbf2": {
+        "": [
+            "27",
+            "28",
+            "29"
+        ],
+        "system3": [
+            "oh yea",
+            "oh yea",
+            "oh yea"
+        ],
+        "user4": [
+            "Animated movies can be ok but I'm not particularly interested in them though.",
+            "Animated movies can be ok but I'm not particularly interested in them though.",
+            "Animated movies can be ok but I'm not particularly interested in them though."
+        ],
+        "system4": [
+            "did you see \"Gravity  (2013)\" did not like that one too much",
+            "did you see \"Gravity  (2013)\" did not like that one too much",
+            "did you see \"Gravity  (2013)\" did not like that one too much"
+        ],
+        "user5": [
+            "I haven't seen that one. I've been curious about it.",
+            "I haven't seen that one. I've been curious about it.",
+            "I haven't seen that one. I've been curious about it."
+        ],
+        "system5": [
+            "I saw \"Gravity  (2013)\" and I fell asleep.. wasnt into it",
+            "I saw \"Gravity  (2013)\" and I fell asleep.. wasnt into it",
+            "I saw \"Gravity  (2013)\" and I fell asleep.. wasnt into it"
+        ],
+        "user6": [
+            "I don't think I enjoy such movies. I usually like those superhero movies",
+            "I don't think I enjoy such movies. I usually like those superhero movies",
+            "I don't think I enjoy such movies. I usually like those superhero movies"
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "task-duration": [
+            "25.9",
+            "59.5",
+            "67.3"
+        ],
+        "ease-of-evaluation": [
+            "neutral",
+            "somewhat-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "We only know that the user does not like animated movies.",
+            "I DONT KNOW WHAT THE USER HAS TOLD THE SYSTEM ABOUT HIS PREFERENCES",
+            "It seems that the system is trying to track down the user's preference. Previous dialogue wouldn't help but subsequent dialogue seems like it will. At the point of the highlighted dialogue, the system has been of no help."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "yes",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "2",
+            "1",
+            "0"
+        ]
+    },
+    "560c1b5ab1874f2c91ba81f9109f4595": {
+        "": [
+            "30",
+            "31",
+            "32"
+        ],
+        "system3": [
+            "\"Arrival  (2016)\" is close \"The Martian  (2015)\" was great, I loved the book too",
+            "\"Arrival  (2016)\" is close \"The Martian  (2015)\" was great, I loved the book too",
+            "\"Arrival  (2016)\" is close \"The Martian  (2015)\" was great, I loved the book too"
+        ],
+        "user4": [
+            "\"The Martian  (2015)\" is more like what im talking about that movie was great",
+            "\"The Martian  (2015)\" is more like what im talking about that movie was great",
+            "\"The Martian  (2015)\" is more like what im talking about that movie was great"
+        ],
+        "system4": [
+            "\"10 Cloverfield Lane (2016)\" had some good in it too",
+            "\"10 Cloverfield Lane (2016)\" had some good in it too",
+            "\"10 Cloverfield Lane (2016)\" had some good in it too"
+        ],
+        "user5": [
+            "I want something more like the \"The Martian  (2015)\". Thanks for the help anyway.",
+            "I want something more like the \"The Martian  (2015)\". Thanks for the help anyway.",
+            "I want something more like the \"The Martian  (2015)\". Thanks for the help anyway."
+        ],
+        "system5": [
+            "sory how bout \"Moon  (2009)\"",
+            "sory how bout \"Moon  (2009)\"",
+            "sory how bout \"Moon  (2009)\""
+        ],
+        "user6": [
+            "I think I heard about that one but I guess ill just have to look elsewhere for some recommendations.",
+            "I think I heard about that one but I guess ill just have to look elsewhere for some recommendations.",
+            "I think I heard about that one but I guess ill just have to look elsewhere for some recommendations."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "16.1",
+            "23.3",
+            "30.1"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-more-difficult",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "The user seemed unhappy even though it looked like the AI was trying to give the user the kind of recommendations they wanted - seeing the beginning of the conversation would likely have helped clarify the situation.",
+            "The last user response makes it clear that they've been unsatisfied with the recommendations given so far.",
+            "I wanted to understand the conversation."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "0",
+            "1",
+            "1"
+        ]
+    },
+    "eac290e3f5794040b4b74e69adabbef3": {
+        "": [
+            "33",
+            "34",
+            "35"
+        ],
+        "system3": [
+            "Comedy is not my kind of movie...what about \"Bad Moms (2016)\" ?",
+            "Comedy is not my kind of movie...what about \"Bad Moms (2016)\" ?",
+            "Comedy is not my kind of movie...what about \"Bad Moms (2016)\" ?"
+        ],
+        "user4": [
+            "I've never seen that. What is it about?",
+            "I've never seen that. What is it about?",
+            "I've never seen that. What is it about?"
+        ],
+        "system4": [
+            "It's about moms acting badly...typical. I'm still stuck with \"Elf  (2003)\" lol",
+            "It's about moms acting badly...typical. I'm still stuck with \"Elf  (2003)\" lol",
+            "It's about moms acting badly...typical. I'm still stuck with \"Elf  (2003)\" lol"
+        ],
+        "user5": [
+            "\"Elf\" is nice it's just that it is a christmas movie",
+            "\"Elf\" is nice it's just that it is a christmas movie",
+            "\"Elf\" is nice it's just that it is a christmas movie"
+        ],
+        "system5": [
+            "\"Fred Claus (2007)\" is a comedy about Santa Claus' bitter older brother who is forced to help out at the North Pole. Sorry, I wish I had more suggestions for you...",
+            "\"Fred Claus (2007)\" is a comedy about Santa Claus' bitter older brother who is forced to help out at the North Pole. Sorry, I wish I had more suggestions for you...",
+            "\"Fred Claus (2007)\" is a comedy about Santa Claus' bitter older brother who is forced to help out at the North Pole. Sorry, I wish I had more suggestions for you..."
+        ],
+        "user6": [
+            "No need to apologize! You were actually quite helpful. You reminded me of some great movies",
+            "No need to apologize! You were actually quite helpful. You reminded me of some great movies",
+            "No need to apologize! You were actually quite helpful. You reminded me of some great movies"
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Decreased confidence",
+            "Decreased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "68.5",
+            "16.2",
+            "25.2"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-more-difficult",
+            "somewhat-more-difficult"
+        ],
+        "feedback": [
+            "I wanted to understand the conversation and reasoning of the system.",
+            "In the shown utterances, the user indicated they did not want another Christmas movie but at the end they did not seem upset with the suggestion.",
+            "We are not sure if the user is looking for a movie in particular, or just suggestions."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "2bfec4aa0c9b4f08aa6d3c3afeb8cccc": {
+        "": [
+            "36",
+            "37",
+            "38"
+        ],
+        "system3": [
+            "Got it. Try \"The Shawshank Redemption (1994)\" \u2013 gripping and intense.",
+            "Got it. Try \"The Shawshank Redemption (1994)\" \u2013 gripping and intense.",
+            "Got it. Try \"The Shawshank Redemption (1994)\" \u2013 gripping and intense."
+        ],
+        "user4": [
+            "Interesting, but I'm craving supernatural horror or suspenseful thrillers.",
+            "Interesting, but I'm craving supernatural horror or suspenseful thrillers.",
+            "Interesting, but I'm craving supernatural horror or suspenseful thrillers."
+        ],
+        "system4": [
+            "How about \"The Matrix (1999)\"? Mind-bending and suspenseful.",
+            "How about \"The Matrix (1999)\"? Mind-bending and suspenseful.",
+            "How about \"The Matrix (1999)\"? Mind-bending and suspenseful."
+        ],
+        "user5": [
+            "Close, but I want something eerie that messes with my mind.",
+            "Close, but I want something eerie that messes with my mind.",
+            "Close, but I want something eerie that messes with my mind."
+        ],
+        "system5": [
+            "Consider \"Eternal Sunshine of the Spotless Mind (2004)\" \u2013 thought-provoking.",
+            "Consider \"Eternal Sunshine of the Spotless Mind (2004)\" \u2013 thought-provoking.",
+            "Consider \"Eternal Sunshine of the Spotless Mind (2004)\" \u2013 thought-provoking."
+        ],
+        "user6": [
+            "Not quite, I want a movie that questions reality.",
+            "Not quite, I want a movie that questions reality.",
+            "Not quite, I want a movie that questions reality."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "21.8",
+            "6.8",
+            "29.9"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "The system is focused on the mind-bending request but missing the horror/suspense aspect of the recommendation request.",
+            "The user said that the system was a little off on the recommendation.",
+            "I understood the conversation with the current responses."
+        ],
+        "inclusion-of-history": [
+            "no",
+            "no",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "38f67dc9f6c640feb8838ace61d1dcb9": {
+        "": [
+            "39",
+            "40",
+            "41"
+        ],
+        "system3": [
+            "Oh, my apologies. How about \"The Emoji Movie (2017)\"?",
+            "Oh, my apologies. How about \"The Emoji Movie (2017)\"?",
+            "Oh, my apologies. How about \"The Emoji Movie (2017)\"?"
+        ],
+        "user4": [
+            "No, that's not really what I'm looking for.",
+            "No, that's not really what I'm looking for.",
+            "No, that's not really what I'm looking for."
+        ],
+        "system4": [
+            "Alright, how about \"The Smurfs 2 (2013)\"? It's a fun family movie.",
+            "Alright, how about \"The Smurfs 2 (2013)\"? It's a fun family movie.",
+            "Alright, how about \"The Smurfs 2 (2013)\"? It's a fun family movie."
+        ],
+        "user5": [
+            "Not really my preference.",
+            "Not really my preference.",
+            "Not really my preference."
+        ],
+        "system5": [
+            "Okay, how about \"The Great Gatsby (2013)\"? It's a visually stunning film.",
+            "Okay, how about \"The Great Gatsby (2013)\"? It's a visually stunning film.",
+            "Okay, how about \"The Great Gatsby (2013)\"? It's a visually stunning film."
+        ],
+        "user6": [
+            "That's a different genre, but thanks for the suggestion.",
+            "That's a different genre, but thanks for the suggestion.",
+            "That's a different genre, but thanks for the suggestion."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Decreased confidence",
+            "Decreased confidence"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "task-duration": [
+            "70.7",
+            "21.3",
+            "43.5"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "somewhat-more-difficult",
+            "somewhat-more-difficult"
+        ],
+        "feedback": [
+            "I wanted to understand the conversation and reasoning of the system.",
+            "We know that the user does not like the genre mentioned, but no other information is available.",
+            "The preference of the yser was somewhat implied, but it would be good to have the portion of dialogue in which it was stated."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "unsure",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "somewhat-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "0",
+            "1",
+            "1"
+        ]
+    },
+    "27168250c69a41d7873d2f3a55e76376": {
+        "": [
+            "42",
+            "43",
+            "44"
+        ],
+        "system3": [
+            "I like it. It's definitely a tear jerker, especially the end.",
+            "I like it. It's definitely a tear jerker, especially the end.",
+            "I like it. It's definitely a tear jerker, especially the end."
+        ],
+        "user4": [
+            "I like the movie \"I Am Sam (2001)\" \"The Fault in Our Stars (2014)\"",
+            "I like the movie \"I Am Sam (2001)\" \"The Fault in Our Stars (2014)\"",
+            "I like the movie \"I Am Sam (2001)\" \"The Fault in Our Stars (2014)\""
+        ],
+        "system4": [
+            "I haven't seen that one. How about a sci-fi adventure like \"Blade Runner 2049 (2017)\"?",
+            "I haven't seen that one. How about a sci-fi adventure like \"Blade Runner 2049 (2017)\"?",
+            "I haven't seen that one. How about a sci-fi adventure like \"Blade Runner 2049 (2017)\"?"
+        ],
+        "user5": [
+            "I am not much of a sci-fi fun!",
+            "I am not much of a sci-fi fun!",
+            "I am not much of a sci-fi fun!"
+        ],
+        "system5": [
+            "May be \"Interstellar (2014)\" will be of interest?",
+            "May be \"Interstellar (2014)\" will be of interest?",
+            "May be \"Interstellar (2014)\" will be of interest?"
+        ],
+        "user6": [
+            "Ain't that another sci-fi movie!",
+            "Ain't that another sci-fi movie!",
+            "Ain't that another sci-fi movie!"
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "9.2",
+            "73.8",
+            "13.0"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "The user was unhappy with being recommended sci-fi films, and the AI kept recommending more sci-fi, so I did not need to see more.",
+            "The user said they did much like sci fi film and then the system suggested a sci film, so it was easy to tell the system response wasn't useful.",
+            "The user stated both before and after that they didn't want the type of movie that the system recommended."
+        ],
+        "inclusion-of-history": [
+            "no",
+            "no",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "3609f667089345b88f89f13958ebfb52": {
+        "": [
+            "45",
+            "46",
+            "47"
+        ],
+        "system3": [
+            "ok lets try something else did you go see \"Black Panther (2018)\"",
+            "ok lets try something else did you go see \"Black Panther (2018)\"",
+            "ok lets try something else did you go see \"Black Panther (2018)\""
+        ],
+        "user4": [
+            "Yes I did, very good. \"Black Panther (2018)\" is worth the hype.",
+            "Yes I did, very good. \"Black Panther (2018)\" is worth the hype.",
+            "Yes I did, very good. \"Black Panther (2018)\" is worth the hype."
+        ],
+        "system4": [
+            "i love movies like that anything else you like",
+            "i love movies like that anything else you like",
+            "i love movies like that anything else you like"
+        ],
+        "user5": [
+            "One more recommendation? If it's not horror I'm open.",
+            "One more recommendation? If it's not horror I'm open.",
+            "One more recommendation? If it's not horror I'm open."
+        ],
+        "system5": [
+            "\"On Body and Soul (2017)\" didnt hit theaters till 2018 i beleive anyhow in my state",
+            "\"On Body and Soul (2017)\" didnt hit theaters till 2018 i beleive anyhow in my state",
+            "\"On Body and Soul (2017)\" didnt hit theaters till 2018 i beleive anyhow in my state"
+        ],
+        "user6": [
+            "I think I heard about \"On Body and Soul (2017).\" I will look into that one. Thank you for your help.",
+            "I think I heard about \"On Body and Soul (2017).\" I will look into that one. Thank you for your help.",
+            "I think I heard about \"On Body and Soul (2017).\" I will look into that one. Thank you for your help."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "task-duration": [
+            "20.6",
+            "23.1",
+            "72.3"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-more-difficult",
+            "much-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "Even though the user seemed happy with anything besides horror movie recommendations, it would be helpful to see the very beginning of the conversation.",
+            "The user responds positively to the suggestion provided by the system.",
+            "I wanted to understand the conversation and reasoning of the system."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "2",
+            "2",
+            "2"
+        ]
+    },
+    "c9035aa6f48e46e384b80d18f6693ea4": {
+        "": [
+            "48",
+            "49",
+            "50"
+        ],
+        "system3": [
+            "Yes have you seen \"American Sniper (2014)\"",
+            "Yes have you seen \"American Sniper (2014)\"",
+            "Yes have you seen \"American Sniper (2014)\""
+        ],
+        "user4": [
+            "Yes that was great! It was one of the best adaptations I have ever seen.",
+            "Yes that was great! It was one of the best adaptations I have ever seen.",
+            "Yes that was great! It was one of the best adaptations I have ever seen."
+        ],
+        "system4": [
+            "Also \"Limitless  (2011)\"",
+            "Also \"Limitless  (2011)\"",
+            "Also \"Limitless  (2011)\""
+        ],
+        "user5": [
+            "Have not seen that one. Any good?",
+            "Have not seen that one. Any good?",
+            "Have not seen that one. Any good?"
+        ],
+        "system5": [
+            "And \"American Hustle (2013)\" \"Limitless  (2011)\" isn't as good as the others",
+            "And \"American Hustle (2013)\" \"Limitless  (2011)\" isn't as good as the others",
+            "And \"American Hustle (2013)\" \"Limitless  (2011)\" isn't as good as the others"
+        ],
+        "user6": [
+            "So did I. Great movie. Jennifer Lawrence was good in that movie too.",
+            "So did I. Great movie. Jennifer Lawrence was good in that movie too.",
+            "So did I. Great movie. Jennifer Lawrence was good in that movie too."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "Decreased confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "271.5",
+            "75.3",
+            "36.5"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-more-difficult",
+            "somewhat-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "The user only said that they liked one of the recomendations.",
+            "The system seems to be on the right track, although recommends a film that it doesn't fully support. Would help to known the user's exact request.",
+            "8 UTTERANCES GIVES A GOOD ENOUGH PICTURE TO JUDGE."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "unsure",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "2",
+            "1",
+            "1"
+        ]
+    },
+    "946e10b4a33c4a809affd435eca1192b": {
+        "": [
+            "51",
+            "52",
+            "53"
+        ],
+        "system3": [
+            "What about \"Mad Max (1979)?\"",
+            "What about \"Mad Max (1979)?\"",
+            "What about \"Mad Max (1979)?\""
+        ],
+        "user4": [
+            "No I haven't seen it.",
+            "No I haven't seen it.",
+            "No I haven't seen it."
+        ],
+        "system4": [
+            "It is pretty exciting.",
+            "It is pretty exciting.",
+            "It is pretty exciting."
+        ],
+        "user5": [
+            "What is it about?",
+            "What is it about?",
+            "What is it about?"
+        ],
+        "system5": [
+            "There is a new one too \"Mad Max: Fury Road (2015)\" with Tom Hardy.",
+            "There is a new one too \"Mad Max: Fury Road (2015)\" with Tom Hardy.",
+            "There is a new one too \"Mad Max: Fury Road (2015)\" with Tom Hardy."
+        ],
+        "user6": [
+            "I like watching \"Inglourious Basterds (2009)\" Lots of actions sad almost everyone died at the end.",
+            "I like watching \"Inglourious Basterds (2009)\" Lots of actions sad almost everyone died at the end.",
+            "I like watching \"Inglourious Basterds (2009)\" Lots of actions sad almost everyone died at the end."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "14.6",
+            "17.9",
+            "14.4"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "somewhat-more-difficult",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "The system isn't really listening to the user, when the user asks what Mad max is about they went on to another suggestion. Additional dialogue history would provide additional info on if any accurate suggestions have been provided.",
+            "It was hard to tell what category of movies the user wanted to watch.",
+            "User was asking about the previous movie and system gave a brand new suggestion"
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "yes",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "not-very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "1",
+            "1",
+            "0"
+        ]
+    },
+    "b4a53a336dd04e95af447513b7d60830": {
+        "": [
+            "54",
+            "55",
+            "56"
+        ],
+        "system3": [
+            "That's a bit of a harsh criticism lol",
+            "That's a bit of a harsh criticism lol",
+            "That's a bit of a harsh criticism lol"
+        ],
+        "user4": [
+            "what other movies do you watch like how do you feel abou \"Ghost  (1998)\" . i mean whoopie was good but it was the same plot nothing new",
+            "what other movies do you watch like how do you feel abou \"Ghost  (1998)\" . i mean whoopie was good but it was the same plot nothing new",
+            "what other movies do you watch like how do you feel abou \"Ghost  (1998)\" . i mean whoopie was good but it was the same plot nothing new"
+        ],
+        "system4": [
+            "The supporting characters are pretty cool in Sister Act 2. I do not really like Ghost. What about the kid that sang Oh,Happy Day?",
+            "The supporting characters are pretty cool in Sister Act 2. I do not really like Ghost. What about the kid that sang Oh,Happy Day?",
+            "The supporting characters are pretty cool in Sister Act 2. I do not really like Ghost. What about the kid that sang Oh,Happy Day?"
+        ],
+        "user5": [
+            "i mean that is true so maybe it was a good moie but you cant beat the first.",
+            "i mean that is true so maybe it was a good moie but you cant beat the first.",
+            "i mean that is true so maybe it was a good moie but you cant beat the first."
+        ],
+        "system5": [
+            "Ok well that is great point. \"The Nut Job (2014)\" was agreat movie as well",
+            "Ok well that is great point. \"The Nut Job (2014)\" was agreat movie as well",
+            "Ok well that is great point. \"The Nut Job (2014)\" was agreat movie as well"
+        ],
+        "user6": [
+            "Goodbye",
+            "Goodbye",
+            "Goodbye"
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "neutral"
+        ],
+        "task-duration": [
+            "12.2",
+            "25.4",
+            "39.7"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-more-difficult",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "I would have been able to find out more about what the user liked.",
+            "I did not understand harsh criticism",
+            "was able to understand what was going on"
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "yes",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "somewhat-useful",
+            "somewhat-useful",
+            "neutral"
+        ],
+        "usefulness": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "b809f827f1454df8b5da1d8444722c04": {
+        "": [
+            "57",
+            "58",
+            "59"
+        ],
+        "system3": [
+            "If you're interested in exploring different genres, you might enjoy \"Warrior (2011)\" \u2013 it's a heartfelt drama centered around mixed martial arts.",
+            "If you're interested in exploring different genres, you might enjoy \"Warrior (2011)\" \u2013 it's a heartfelt drama centered around mixed martial arts.",
+            "If you're interested in exploring different genres, you might enjoy \"Warrior (2011)\" \u2013 it's a heartfelt drama centered around mixed martial arts."
+        ],
+        "user4": [
+            "\"Warrior (2011)\" sounds intriguing, I'll definitely give that a watch. Anything else that comes to mind?",
+            "\"Warrior (2011)\" sounds intriguing, I'll definitely give that a watch. Anything else that comes to mind?",
+            "\"Warrior (2011)\" sounds intriguing, I'll definitely give that a watch. Anything else that comes to mind?"
+        ],
+        "system4": [
+            "\"Cinderella Man (2005)\" offers a compelling story set against the backdrop of the Great Depression",
+            "\"Cinderella Man (2005)\" offers a compelling story set against the backdrop of the Great Depression",
+            "\"Cinderella Man (2005)\" offers a compelling story set against the backdrop of the Great Depression"
+        ],
+        "user5": [
+            "Sounds too depressing. Something delightful please?",
+            "Sounds too depressing. Something delightful please?",
+            "Sounds too depressing. Something delightful please?"
+        ],
+        "system5": [
+            "Sure thing! Since you appreciated strong performances, you might also enjoy \"The Wrestler (2008),\" which delves into the world of professional wrestling and features Mickey Rourke.",
+            "Sure thing! Since you appreciated strong performances, you might also enjoy \"The Wrestler (2008),\" which delves into the world of professional wrestling and features Mickey Rourke.",
+            "Sure thing! Since you appreciated strong performances, you might also enjoy \"The Wrestler (2008),\" which delves into the world of professional wrestling and features Mickey Rourke."
+        ],
+        "user6": [
+            "\"The Wrestler (2008)\" sounds like it's right up my alley. I've heard good things about Mickey Rourke's performance. Thanks for the recommendations!",
+            "\"The Wrestler (2008)\" sounds like it's right up my alley. I've heard good things about Mickey Rourke's performance. Thanks for the recommendations!",
+            "\"The Wrestler (2008)\" sounds like it's right up my alley. I've heard good things about Mickey Rourke's performance. Thanks for the recommendations!"
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "Increased confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "task-duration": [
+            "11.7",
+            "90.5",
+            "11.2"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "There was enough conversation included to get a good idea of what the user wanted, but i still feel like seeing the start of the conversation would give me more confidence in knowing what kind of a job the AI is doing.",
+            "The user responded by being genuinely happy with the recommendation.",
+            "User indicated they were happy with the given moie"
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "2",
+            "2",
+            "2"
+        ]
+    },
+    "328f49d53b6740aca49232772b0f3c28": {
+        "": [
+            "60",
+            "61",
+            "62"
+        ],
+        "system3": [
+            "You didn't see the new \"It  (2017)\" did you? Don't. The original is way better",
+            "You didn't see the new \"It  (2017)\" did you? Don't. The original is way better",
+            "You didn't see the new \"It  (2017)\" did you? Don't. The original is way better"
+        ],
+        "user4": [
+            "i watched some of but i really didnt think he was as good was the old so i never finished it",
+            "i watched some of but i really didnt think he was as good was the old so i never finished it",
+            "i watched some of but i really didnt think he was as good was the old so i never finished it"
+        ],
+        "system4": [
+            "Good choice!",
+            "Good choice!",
+            "Good choice!"
+        ],
+        "user5": [
+            "I also like the \"The Conjuring \" movies as well",
+            "I also like the \"The Conjuring \" movies as well",
+            "I also like the \"The Conjuring \" movies as well"
+        ],
+        "system5": [
+            "I've actually never have seen them",
+            "I've actually never have seen them",
+            "I've actually never have seen them"
+        ],
+        "user6": [
+            "they are definitely scary! you should check them out!",
+            "they are definitely scary! you should check them out!",
+            "they are definitely scary! you should check them out!"
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "task-duration": [
+            "25.2",
+            "240.9",
+            "21.8"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "somewhat-easy",
+            "somewhat-more-difficult"
+        ],
+        "feedback": [
+            "The user seems to be giiving suggestions to the system, previous  history could assist in determining if a system suggestion was ever given.",
+            "Based on what is presented the system has been of little help since it only recommended one film not to see and was not familiar with some filmes the user liked. Perhaps the system was better the rest of the dialogue but since there is no recommendation in the highlighted section that section has no use.",
+            "In the highlighted response the system acted like a user and did not give a suggestion but said they did not like the Conjuring which the user brought up."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "unsure",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    "2ab6059aada34107a760e70dd53d34df": {
+        "": [
+            "63",
+            "64",
+            "65"
+        ],
+        "system3": [
+            "Okay great. One moment please. \"Insidious  (2010)\" was great. Have you seen it yet?",
+            "Okay great. One moment please. \"Insidious  (2010)\" was great. Have you seen it yet?",
+            "Okay great. One moment please. \"Insidious  (2010)\" was great. Have you seen it yet?"
+        ],
+        "user4": [
+            "Yes, great movie",
+            "Yes, great movie",
+            "Yes, great movie"
+        ],
+        "system4": [
+            "There was also a sequel to it \"Insidious: Chapter 4 (2018)\" And a newer movie is called \"Mother! (2017)\" I seen it last week and loved it.",
+            "There was also a sequel to it \"Insidious: Chapter 4 (2018)\" And a newer movie is called \"Mother! (2017)\" I seen it last week and loved it.",
+            "There was also a sequel to it \"Insidious: Chapter 4 (2018)\" And a newer movie is called \"Mother! (2017)\" I seen it last week and loved it."
+        ],
+        "user5": [
+            "I have not seen that yet. I am not a huge fan of sequels or trilogies I saw part of it, didn't really care for it",
+            "I have not seen that yet. I am not a huge fan of sequels or trilogies I saw part of it, didn't really care for it",
+            "I have not seen that yet. I am not a huge fan of sequels or trilogies I saw part of it, didn't really care for it"
+        ],
+        "system5": [
+            "I don't think sequels are ever as good as the original. How about \"Psycho  (1960)\" do you think you'd like to see it?",
+            "I don't think sequels are ever as good as the original. How about \"Psycho  (1960)\" do you think you'd like to see it?",
+            "I don't think sequels are ever as good as the original. How about \"Psycho  (1960)\" do you think you'd like to see it?"
+        ],
+        "user6": [
+            "I did however like \"Split (2017)\" it was the prequel to \"Unbreakable  (2000)\" Yes! Love those types of movies",
+            "I did however like \"Split (2017)\" it was the prequel to \"Unbreakable  (2000)\" Yes! Love those types of movies",
+            "I did however like \"Split (2017)\" it was the prequel to \"Unbreakable  (2000)\" Yes! Love those types of movies"
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "Decreased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "37.5",
+            "5.4",
+            "24.8"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "neutral"
+        ],
+        "feedback": [
+            "While the last user response demonstrates they're on the right track, it took all 6 back and forth responses to get there. Previous history would better inform me on how long it actually took to  get there.",
+            "The user said they love the kind of movie that the system recommended.",
+            "We only know that the user likes prequel movies."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "2",
+            "2",
+            "1"
+        ]
+    },
+    "11c0a84bafb940828de1879b54a17eb9": {
+        "": [
+            "66",
+            "67",
+            "68"
+        ],
+        "system3": [
+            "I've never heard that but will look into it. If you like the old scary movies what about \"Prom Night  (1980)\" or \"@194147?\"",
+            "I've never heard that but will look into it. If you like the old scary movies what about \"Prom Night  (1980)\" or \"@194147?\"",
+            "I've never heard that but will look into it. If you like the old scary movies what about \"Prom Night  (1980)\" or \"@194147?\""
+        ],
+        "user4": [
+            "Haven't seen \"Prom Night  (1980)\" that I remember, loved the original \"Carrie  (1976)\"",
+            "Haven't seen \"Prom Night  (1980)\" that I remember, loved the original \"Carrie  (1976)\"",
+            "Haven't seen \"Prom Night  (1980)\" that I remember, loved the original \"Carrie  (1976)\""
+        ],
+        "system4": [
+            "Those were the movies I went to see with my school friends. Another classic is \"Friday the 13th  (1980)\"",
+            "Those were the movies I went to see with my school friends. Another classic is \"Friday the 13th  (1980)\"",
+            "Those were the movies I went to see with my school friends. Another classic is \"Friday the 13th  (1980)\""
+        ],
+        "user5": [
+            "Ive seen that one, loved it too. will look for \"Prom Night  (1980)\" , thanks for the recommendation. have a great night.",
+            "Ive seen that one, loved it too. will look for \"Prom Night  (1980)\" , thanks for the recommendation. have a great night.",
+            "Ive seen that one, loved it too. will look for \"Prom Night  (1980)\" , thanks for the recommendation. have a great night."
+        ],
+        "system5": [
+            "I heard the new \"A Quiet Place (2018)\" is supposed to be really creepy",
+            "I heard the new \"A Quiet Place (2018)\" is supposed to be really creepy",
+            "I heard the new \"A Quiet Place (2018)\" is supposed to be really creepy"
+        ],
+        "user6": [
+            "I seen something about that. supposedly genuinely scary.",
+            "I seen something about that. supposedly genuinely scary.",
+            "I seen something about that. supposedly genuinely scary."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "30.9",
+            "39.5",
+            "17.8"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "Even though it seemed like the user was happy to talk about horror movies, I would have liked to see the start of the conversation to see what they actually asked the AI for recommendations about.",
+            "The user is happy with the system recommendation of prom night, per their response.",
+            "The user agreed with the system that it was a good suggestion."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "2",
+            "2",
+            "2"
+        ]
+    },
+    "0739ee792eba441e872d082f14dd085b": {
+        "": [
+            "69",
+            "70",
+            "71"
+        ],
+        "system3": [
+            "Me, haha.",
+            "Me, haha.",
+            "Me, haha."
+        ],
+        "user4": [
+            "Oh haha, really? Animation not your thing?",
+            "Oh haha, really? Animation not your thing?",
+            "Oh haha, really? Animation not your thing?"
+        ],
+        "system4": [
+            "Nah. That one just doesn't interest me.",
+            "Nah. That one just doesn't interest me.",
+            "Nah. That one just doesn't interest me."
+        ],
+        "user5": [
+            "Ohh, okay. No worries. Any other animation suggestion?",
+            "Ohh, okay. No worries. Any other animation suggestion?",
+            "Ohh, okay. No worries. Any other animation suggestion?"
+        ],
+        "system5": [
+            "\"Kung Fu Panda (2008)\" is pretty good.",
+            "\"Kung Fu Panda (2008)\" is pretty good.",
+            "\"Kung Fu Panda (2008)\" is pretty good."
+        ],
+        "user6": [
+            "I liked the first one, and the second, the third \"Kung Fu Panda 3 (2016)\" was too much for me. It was good, but didn't make the most sense to me.",
+            "I liked the first one, and the second, the third \"Kung Fu Panda 3 (2016)\" was too much for me. It was good, but didn't make the most sense to me.",
+            "I liked the first one, and the second, the third \"Kung Fu Panda 3 (2016)\" was too much for me. It was good, but didn't make the most sense to me."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Decreased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "task-duration": [
+            "6.7",
+            "61.1",
+            "184.6"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "the user clearly specified that they want animations.",
+            "I wanted to understand the conversation and reasoning of the system.",
+            "The user mentioned that they are interested in animated movies."
+        ],
+        "inclusion-of-history": [
+            "no",
+            "yes",
+            "unsure"
+        ],
+        "nxt-utterance-usefulness": [
+            "somewhat-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "2",
+            "0",
+            "1"
+        ]
+    },
+    "79593027b63e43d5a2c1ffe04c5bac42": {
+        "": [
+            "72",
+            "73",
+            "74"
+        ],
+        "system3": [
+            "My boys are the same way they actually love \"My Little Pony: The Movie  (2017)\" and yes I agree about eh commercialization but it is still a good movie",
+            "My boys are the same way they actually love \"My Little Pony: The Movie  (2017)\" and yes I agree about eh commercialization but it is still a good movie",
+            "My boys are the same way they actually love \"My Little Pony: The Movie  (2017)\" and yes I agree about eh commercialization but it is still a good movie"
+        ],
+        "user4": [
+            "I'll have to check it out maybe. We haven't seen My Little Pony yet.",
+            "I'll have to check it out maybe. We haven't seen My Little Pony yet.",
+            "I'll have to check it out maybe. We haven't seen My Little Pony yet."
+        ],
+        "system4": [
+            "One that is rather new and really good is \"Coco  (2017)\" it has sad moments though",
+            "One that is rather new and really good is \"Coco  (2017)\" it has sad moments though",
+            "One that is rather new and really good is \"Coco  (2017)\" it has sad moments though"
+        ],
+        "user5": [
+            "She loves \"Finding Dory (2016)\" and \"Trolls  (2016)\"",
+            "She loves \"Finding Dory (2016)\" and \"Trolls  (2016)\"",
+            "She loves \"Finding Dory (2016)\" and \"Trolls  (2016)\""
+        ],
+        "system5": [
+            "I love those movies total kid at heart lol",
+            "I love those movies total kid at heart lol",
+            "I love those movies total kid at heart lol"
+        ],
+        "user6": [
+            "Me too. I always like to watch movies with happy endings.",
+            "Me too. I always like to watch movies with happy endings.",
+            "Me too. I always like to watch movies with happy endings."
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "not-very-useful"
+        ],
+        "task-duration": [
+            "23.5",
+            "4.8",
+            "59.3"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "In this case whle the user is getting good information it's almost as if the roles had been flipped, and the user suggested movies to the system.",
+            "The AI did not recommend a movie, so I did not need to see more in this case.",
+            "because it didn't recommend any movie."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "not-very-useful"
+        ],
+        "usefulness": [
+            "2",
+            "0",
+            "0"
+        ]
+    },
+    "df97692b779247daae488a446d609bb8": {
+        "": [
+            "75",
+            "76",
+            "77"
+        ],
+        "system3": [
+            "Have you seen \"Ouija  (2014)\" ? I haven't seen that movies",
+            "Have you seen \"Ouija  (2014)\" ? I haven't seen that movies",
+            "Have you seen \"Ouija  (2014)\" ? I haven't seen that movies"
+        ],
+        "user4": [
+            "Yes I have, good movie. unexpected ending.",
+            "Yes I have, good movie. unexpected ending.",
+            "Yes I have, good movie. unexpected ending."
+        ],
+        "system4": [
+            "have you seen \"Final Destination  (2000)\" ? And scary too",
+            "have you seen \"Final Destination  (2000)\" ? And scary too",
+            "have you seen \"Final Destination  (2000)\" ? And scary too"
+        ],
+        "user5": [
+            "Yes I have, those movies are classics.",
+            "Yes I have, those movies are classics.",
+            "Yes I have, those movies are classics."
+        ],
+        "system5": [
+            "am happy you like them well thanks for your suggestion have a good one",
+            "am happy you like them well thanks for your suggestion have a good one",
+            "am happy you like them well thanks for your suggestion have a good one"
+        ],
+        "user6": [
+            "Do you have 1 more suggestion?",
+            "Do you have 1 more suggestion?",
+            "Do you have 1 more suggestion?"
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "Increased confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "23.8",
+            "12.5",
+            "10.9"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "Maybe the system already provided a good recommendation",
+            "A few more examples of the type of horror movie the user likes would be helpful",
+            "The AI did not recommend a movie in the highlighted response, so I did not need to read more."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "yes",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "neutral",
+            "very-useful"
+        ],
+        "usefulness": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "0a1c617c57c64d5081d621103649631b": {
+        "": [
+            "78",
+            "79",
+            "80"
+        ],
+        "system3": [
+            "I've seen the whole series myself. The only one I distinctly remember is \"Saw  (2004).\" The rest seemed kind of gimmicky.",
+            "I've seen the whole series myself. The only one I distinctly remember is \"Saw  (2004).\" The rest seemed kind of gimmicky.",
+            "I've seen the whole series myself. The only one I distinctly remember is \"Saw  (2004).\" The rest seemed kind of gimmicky."
+        ],
+        "user4": [
+            "true \"Saw 3D (2010)\" had a good ending but it was def on the gimmicky side",
+            "true \"Saw 3D (2010)\" had a good ending but it was def on the gimmicky side",
+            "true \"Saw 3D (2010)\" had a good ending but it was def on the gimmicky side"
+        ],
+        "system4": [
+            "Kind of reminds me of \"Jaws 3-D (1983)\" or any of those 3D movies really.",
+            "Kind of reminds me of \"Jaws 3-D (1983)\" or any of those 3D movies really.",
+            "Kind of reminds me of \"Jaws 3-D (1983)\" or any of those 3D movies really."
+        ],
+        "user5": [
+            "haha i liked \"Jaws \" that will always be a classic",
+            "haha i liked \"Jaws \" that will always be a classic",
+            "haha i liked \"Jaws \" that will always be a classic"
+        ],
+        "system5": [
+            "\"Jaws 3-D (1983)\" and \"Jaws: The Revenge (1987)\" were both pretty bad. Is there anything else I can help you with tonight? Or have you chosen a movie?",
+            "\"Jaws 3-D (1983)\" and \"Jaws: The Revenge (1987)\" were both pretty bad. Is there anything else I can help you with tonight? Or have you chosen a movie?",
+            "\"Jaws 3-D (1983)\" and \"Jaws: The Revenge (1987)\" were both pretty bad. Is there anything else I can help you with tonight? Or have you chosen a movie?"
+        ],
+        "user6": [
+            "o yeah i agree. \"Happy Death Day  (2017)\" WOULD BE MY CHOICE",
+            "o yeah i agree. \"Happy Death Day  (2017)\" WOULD BE MY CHOICE",
+            "o yeah i agree. \"Happy Death Day  (2017)\" WOULD BE MY CHOICE"
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Decreased confidence",
+            "Decreased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "neutral"
+        ],
+        "task-duration": [
+            "19.7",
+            "16.1",
+            "36.1"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "The system said these movies were bad but they recommended them anyway",
+            "It was hard to tell what kind of films the user wanted to have recommended to them without seeing the start of the dialogue.",
+            "It's difficult to tell from the given dialogue what kind of movie the user is actually looking for."
+        ],
+        "inclusion-of-history": [
+            "no",
+            "yes",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "0",
+            "2",
+            "1"
+        ]
+    },
+    "79c3dddaf1ef48c99e4586fa6b2e2e34": {
+        "": [
+            "81",
+            "82",
+            "83"
+        ],
+        "system3": [
+            "Well I have sons so let me tell you \"Super  (2010)\" Its great",
+            "Well I have sons so let me tell you \"Super  (2010)\" Its great",
+            "Well I have sons so let me tell you \"Super  (2010)\" Its great"
+        ],
+        "user4": [
+            "I have never heard of that movie before. What is it about?",
+            "I have never heard of that movie before. What is it about?",
+            "I have never heard of that movie before. What is it about?"
+        ],
+        "system4": [
+            "  \"Super (2010)\" is an action-comedy about an everyday guy who becomes a self-made superhero. It's hilarious and entertaining!",
+            "  \"Super (2010)\" is an action-comedy about an everyday guy who becomes a self-made superhero. It's hilarious and entertaining!",
+            "  \"Super (2010)\" is an action-comedy about an everyday guy who becomes a self-made superhero. It's hilarious and entertaining!"
+        ],
+        "user5": [
+            "Thanks for the suggestion, but I'm looking for a family-friendly movie to watch with my boys.",
+            "Thanks for the suggestion, but I'm looking for a family-friendly movie to watch with my boys.",
+            "Thanks for the suggestion, but I'm looking for a family-friendly movie to watch with my boys."
+        ],
+        "system5": [
+            "For a family movie, I'd recommend \"The Lion King (1994)\" \u2013 a classic animated film with a heartwarming story suitable for all ages.",
+            "For a family movie, I'd recommend \"The Lion King (1994)\" \u2013 a classic animated film with a heartwarming story suitable for all ages.",
+            "For a family movie, I'd recommend \"The Lion King (1994)\" \u2013 a classic animated film with a heartwarming story suitable for all ages."
+        ],
+        "user6": [
+            "Ah, \"The Lion King\" is a great choice! We've seen it before, though. Do you have any other family movie options?",
+            "Ah, \"The Lion King\" is a great choice! We've seen it before, though. Do you have any other family movie options?",
+            "Ah, \"The Lion King\" is a great choice! We've seen it before, though. Do you have any other family movie options?"
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "Increased confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "not-very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "238.8",
+            "8.6",
+            "36.4"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "I can already see the user is happy, but they already saw it.",
+            "User wanted a family movie and one was recommended though it was one they had already seen.",
+            "There was plenty of conversation available in order to tell that the user wanted family friendly films."
+        ],
+        "inclusion-of-history": [
+            "no",
+            "no",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "8706ffe0050248739c8c9cae29b70e30": {
+        "": [
+            "84",
+            "85",
+            "86"
+        ],
+        "system3": [
+            "Have you seen \"The Spectacular Now (2013)\" now?? that was a good one!",
+            "Have you seen \"The Spectacular Now (2013)\" now?? that was a good one!",
+            "Have you seen \"The Spectacular Now (2013)\" now?? that was a good one!"
+        ],
+        "user4": [
+            "I've never heard of that one. Who stars in that?",
+            "I've never heard of that one. Who stars in that?",
+            "I've never heard of that one. Who stars in that?"
+        ],
+        "system4": [
+            "shailene woodley who forms a bond with a charming but troubled classmate.",
+            "shailene woodley who forms a bond with a charming but troubled classmate.",
+            "shailene woodley who forms a bond with a charming but troubled classmate."
+        ],
+        "user5": [
+            "My niece does not enjoy romance movies. Any other suggestions?",
+            "My niece does not enjoy romance movies. Any other suggestions?",
+            "My niece does not enjoy romance movies. Any other suggestions?"
+        ],
+        "system5": [
+            "\"The Fault in Our Stars  (2014)\" also stars Woodley, a young cancer patient who falls in love!",
+            "\"The Fault in Our Stars  (2014)\" also stars Woodley, a young cancer patient who falls in love!",
+            "\"The Fault in Our Stars  (2014)\" also stars Woodley, a young cancer patient who falls in love!"
+        ],
+        "user6": [
+            "Hmm, I'm not sure that movie is my niece's type.",
+            "Hmm, I'm not sure that movie is my niece's type.",
+            "Hmm, I'm not sure that movie is my niece's type."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "Decreased confidence"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "21.6",
+            "38.6",
+            "14.2"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "much-more-difficult"
+        ],
+        "feedback": [
+            "It would help to know what kind of non-romance movies the user is looking for",
+            "Maybe the user had been more specific",
+            "I can't tell what kind of movies the user wants to hear about - seeing the start of the dialogue would help."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "unsure",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "somewhat-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "2a086c87f6b74ea19ba6db8da1706983": {
+        "": [
+            "87",
+            "88",
+            "89"
+        ],
+        "system3": [
+            "how about \"The Notebook (2004)\" that always gives me a good cry",
+            "how about \"The Notebook (2004)\" that always gives me a good cry",
+            "how about \"The Notebook (2004)\" that always gives me a good cry"
+        ],
+        "user4": [
+            "I've seen that one already. I like it, but I'd like to see something new. I've also seen \"Titanic  (1997)\"",
+            "I've seen that one already. I like it, but I'd like to see something new. I've also seen \"Titanic  (1997)\"",
+            "I've seen that one already. I like it, but I'd like to see something new. I've also seen \"Titanic  (1997)\""
+        ],
+        "system4": [
+            "yes \"Titanic  (1997)\" was a great movie",
+            "yes \"Titanic  (1997)\" was a great movie",
+            "yes \"Titanic  (1997)\" was a great movie"
+        ],
+        "user5": [
+            "I like old movies too. i really liked \"A Patch of Blue (1965).\" So an older movie may be nice",
+            "I like old movies too. i really liked \"A Patch of Blue (1965).\" So an older movie may be nice",
+            "I like old movies too. i really liked \"A Patch of Blue (1965).\" So an older movie may be nice"
+        ],
+        "system5": [
+            "yeah i really liked \"The Notebook (2004)\" not only my favorite movie but also my favorite actor is in it aswell.",
+            "yeah i really liked \"The Notebook (2004)\" not only my favorite movie but also my favorite actor is in it aswell.",
+            "yeah i really liked \"The Notebook (2004)\" not only my favorite movie but also my favorite actor is in it aswell."
+        ],
+        "user6": [
+            "Ok, but I said i do not like it!",
+            "Ok, but I said i do not like it!",
+            "Ok, but I said i do not like it!"
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "neutral",
+            "very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "15.8",
+            "46.7",
+            "11.7"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "It's difficult to tell what genre of movies the user is looking for without more dialogue.",
+            "I saw enough. I saw what the user already said about that movie.",
+            "User already indicated twice they were not interested in this movie"
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "somewhat-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "b0dabf8ab19c427a9a17fcb171c5205b": {
+        "": [
+            "90",
+            "91",
+            "92"
+        ],
+        "system3": [
+            "Have you seen \"Toy Story 3 (2010)\" ? That one really tug at the heart strings",
+            "Have you seen \"Toy Story 3 (2010)\" ? That one really tug at the heart strings",
+            "Have you seen \"Toy Story 3 (2010)\" ? That one really tug at the heart strings"
+        ],
+        "user4": [
+            "Yes but it was not my favorite. That's an example where the sequels are not as good as the original",
+            "Yes but it was not my favorite. That's an example where the sequels are not as good as the original",
+            "Yes but it was not my favorite. That's an example where the sequels are not as good as the original"
+        ],
+        "system4": [
+            "I agree. Nothing beats \"Toy Story (1995)\"",
+            "I agree. Nothing beats \"Toy Story (1995)\"",
+            "I agree. Nothing beats \"Toy Story (1995)\""
+        ],
+        "user5": [
+            "True. Good recommendations we like similar shows.",
+            "True. Good recommendations we like similar shows.",
+            "True. Good recommendations we like similar shows."
+        ],
+        "system5": [
+            "I am also a fan of \"Fast & Furious 6 (2013)\"",
+            "I am also a fan of \"Fast & Furious 6 (2013)\"",
+            "I am also a fan of \"Fast & Furious 6 (2013)\""
+        ],
+        "user6": [
+            "Not my thing at all!",
+            "Not my thing at all!",
+            "Not my thing at all!"
+        ],
+        "confidence": [
+            "Increased confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "not-very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "14.9",
+            "35.8",
+            "13.7"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "The AI didn't seem to be helpful to the person.",
+            "Maybe I could see what the user asked for.",
+            "The movie recommended was a totally different genre than was being discussed"
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "yes",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    "0d2bf534dcaf44c8af1b990775bcf21a": {
+        "": [
+            "93",
+            "94",
+            "95"
+        ],
+        "system3": [
+            "It was really good. I love the Avenger movies. You probably already know most of those though.",
+            "It was really good. I love the Avenger movies. You probably already know most of those though.",
+            "It was really good. I love the Avenger movies. You probably already know most of those though."
+        ],
+        "user4": [
+            "No I don't think I can put up with them. Do you have any suggestions?",
+            "No I don't think I can put up with them. Do you have any suggestions?",
+            "No I don't think I can put up with them. Do you have any suggestions?"
+        ],
+        "system4": [
+            "Ok. Let me think a minute. How about \"First Kill (2001)\"",
+            "Ok. Let me think a minute. How about \"First Kill (2001)\"",
+            "Ok. Let me think a minute. How about \"First Kill (2001)\""
+        ],
+        "user5": [
+            "I haven't seen \"First Kill (2001)\" yet? What is it about? What Genre does it fall under?",
+            "I haven't seen \"First Kill (2001)\" yet? What is it about? What Genre does it fall under?",
+            "I haven't seen \"First Kill (2001)\" yet? What is it about? What Genre does it fall under?"
+        ],
+        "system5": [
+            "\"Kahaani (2012)\" is sort of a crime thriller. ",
+            "\"Kahaani (2012)\" is sort of a crime thriller. ",
+            "\"Kahaani (2012)\" is sort of a crime thriller. "
+        ],
+        "user6": [
+            "I asked about \"First Kill (2001)\"!",
+            "I asked about \"First Kill (2001)\"!",
+            "I asked about \"First Kill (2001)\"!"
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "not-very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "46.7",
+            "8.1",
+            "7.5"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "The user told the system at the end that they didn't address their last question",
+            "In this case, the user was not happy with what the AI had just recommended, so I did not need to see more.",
+            "User asked about a different movie and was not answered."
+        ],
+        "inclusion-of-history": [
+            "no",
+            "no",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    "d3e8709622eb4fc0883d96c05f01798e": {
+        "": [
+            "96",
+            "97",
+            "98"
+        ],
+        "system3": [
+            "Ok well I would recommend the \"Saw  (2004)\" series for someone who likes gory mixed with mystery.",
+            "Ok well I would recommend the \"Saw  (2004)\" series for someone who likes gory mixed with mystery.",
+            "Ok well I would recommend the \"Saw  (2004)\" series for someone who likes gory mixed with mystery."
+        ],
+        "user4": [
+            "That's a great movie, but to much gory for me! I enjoyed \"Get Out (2017)\"",
+            "That's a great movie, but to much gory for me! I enjoyed \"Get Out (2017)\"",
+            "That's a great movie, but to much gory for me! I enjoyed \"Get Out (2017)\""
+        ],
+        "system4": [
+            "For an excellent horror without the gore, you could check out \"The Conjuring (2013)\" . It has been one of my favorites in recent years.",
+            "For an excellent horror without the gore, you could check out \"The Conjuring (2013)\" . It has been one of my favorites in recent years.",
+            "For an excellent horror without the gore, you could check out \"The Conjuring (2013)\" . It has been one of my favorites in recent years."
+        ],
+        "user5": [
+            "I didn't exactly like the scene.",
+            "I didn't exactly like the scene.",
+            "I didn't exactly like the scene."
+        ],
+        "system5": [
+            "And if you are interested by the boogey man, you can't go wrong with \"Halloween  (1978)\" , \"A Nightmare on Elm Street (1984)\" , and \"Friday the 13th  (1980)\"",
+            "And if you are interested by the boogey man, you can't go wrong with \"Halloween  (1978)\" , \"A Nightmare on Elm Street (1984)\" , and \"Friday the 13th  (1980)\"",
+            "And if you are interested by the boogey man, you can't go wrong with \"Halloween  (1978)\" , \"A Nightmare on Elm Street (1984)\" , and \"Friday the 13th  (1980)\""
+        ],
+        "user6": [
+            "Thanks for the great suggestions but i will avoid them as I get scared easily.",
+            "Thanks for the great suggestions but i will avoid them as I get scared easily.",
+            "Thanks for the great suggestions but i will avoid them as I get scared easily."
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "Increased confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "task-duration": [
+            "25.6",
+            "17.4",
+            "16.9"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-more-difficult",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "i'd need to see what type of movie they asked for",
+            "User indicated they did not like scary movies but they were recommended anyway.",
+            "The user seems to want horror but it's difficult to tell what type of horror they are looking for without more dialogue"
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "somewhat-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    "39d2749ccb3e47a9ac6dfa68c882e4b4": {
+        "": [
+            "99",
+            "100",
+            "101"
+        ],
+        "system3": [
+            "\"It (1990)\" was the first one, though it was not well received.",
+            "\"It (1990)\" was the first one, though it was not well received.",
+            "\"It (1990)\" was the first one, though it was not well received."
+        ],
+        "user4": [
+            "I need to see the original. The new one is very scary. Reminds me of how scary \"Annabelle: Creation (2017)\" is",
+            "I need to see the original. The new one is very scary. Reminds me of how scary \"Annabelle: Creation (2017)\" is",
+            "I need to see the original. The new one is very scary. Reminds me of how scary \"Annabelle: Creation (2017)\" is"
+        ],
+        "system4": [
+            "\"Ready Player One  (2018)\" is out now, it is not scary but an action film.",
+            "\"Ready Player One  (2018)\" is out now, it is not scary but an action film.",
+            "\"Ready Player One  (2018)\" is out now, it is not scary but an action film."
+        ],
+        "user5": [
+            "No I don't want action movies.",
+            "No I don't want action movies.",
+            "No I don't want action movies."
+        ],
+        "system5": [
+            "If you are looking for creepy \"The Strangers: Prey at Night (2018)\" is out now. the reviews were not good though.",
+            "If you are looking for creepy \"The Strangers: Prey at Night (2018)\" is out now. the reviews were not good though.",
+            "If you are looking for creepy \"The Strangers: Prey at Night (2018)\" is out now. the reviews were not good though."
+        ],
+        "user6": [
+            "But that's too creepy and scary!",
+            "But that's too creepy and scary!",
+            "But that's too creepy and scary!"
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "36.7",
+            "17.8",
+            "18.9"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "It was clear by the last user response.",
+            "It would help to know what the user considers to be too creepy",
+            "The user seemed to be interested in scary movies but at the end indicated that the movie chosen was too scary."
+        ],
+        "inclusion-of-history": [
+            "no",
+            "yes",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "84b860aa0e204386bab3460ec8e7db35": {
+        "": [
+            "102",
+            "103",
+            "104"
+        ],
+        "system3": [
+            "\"Get Out (2017)\" was considered comedy also",
+            "\"Get Out (2017)\" was considered comedy also",
+            "\"Get Out (2017)\" was considered comedy also"
+        ],
+        "user4": [
+            "I love Thor Ragnarok! Get out was a comedy?",
+            "I love Thor Ragnarok! Get out was a comedy?",
+            "I love Thor Ragnarok! Get out was a comedy?"
+        ],
+        "system4": [
+            "It was called a comedy, but I don't agree. Perspective, I guess Did you see \"The Hangover (2009)\"",
+            "It was called a comedy, but I don't agree. Perspective, I guess Did you see \"The Hangover (2009)\"",
+            "It was called a comedy, but I don't agree. Perspective, I guess Did you see \"The Hangover (2009)\""
+        ],
+        "user5": [
+            "no I haven't seen that one I might have to check it out",
+            "no I haven't seen that one I might have to check it out",
+            "no I haven't seen that one I might have to check it out"
+        ],
+        "system5": [
+            "You're welcome",
+            "You're welcome",
+            "You're welcome"
+        ],
+        "user6": [
+            "thanks",
+            "thanks",
+            "thanks"
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "Decreased confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "neutral",
+            "very-useful"
+        ],
+        "task-duration": [
+            "63.8",
+            "12.8",
+            "4.3"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "Might explain how the bot has a perspective",
+            "It would help to know what kind of comedy movies the user likes",
+            "The AI didn't recommend a movie, so I did not need to see more."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "yes",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "somewhat-useful",
+            "not-very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    "c8531054454b42e38c4834e3942f603c": {
+        "": [
+            "105",
+            "106",
+            "107"
+        ],
+        "system3": [
+            "\"1408  (2007)\" is interesting in that style as well.",
+            "\"1408  (2007)\" is interesting in that style as well.",
+            "\"1408  (2007)\" is interesting in that style as well."
+        ],
+        "user4": [
+            "I've been wanting to see \"1408  (2007)\" That looks good, do you like thrillers too",
+            "I've been wanting to see \"1408  (2007)\" That looks good, do you like thrillers too",
+            "I've been wanting to see \"1408  (2007)\" That looks good, do you like thrillers too"
+        ],
+        "system4": [
+            "yes",
+            "yes",
+            "yes"
+        ],
+        "user5": [
+            "yeah it can be hard to find good ones to watch that aren't too corny",
+            "yeah it can be hard to find good ones to watch that aren't too corny",
+            "yeah it can be hard to find good ones to watch that aren't too corny"
+        ],
+        "system5": [
+            "\"Dark Water  (2005)\" was another one.",
+            "\"Dark Water  (2005)\" was another one.",
+            "\"Dark Water  (2005)\" was another one."
+        ],
+        "user6": [
+            "We watched \"The Devil's Candy (2015)\" recently and it was really disappointing. I thought \"Dark Water  (2005)\" looks good! thanks for the suggestions",
+            "We watched \"The Devil's Candy (2015)\" recently and it was really disappointing. I thought \"Dark Water  (2005)\" looks good! thanks for the suggestions",
+            "We watched \"The Devil's Candy (2015)\" recently and it was really disappointing. I thought \"Dark Water  (2005)\" looks good! thanks for the suggestions"
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "somewhat-useful",
+            "neutral",
+            "very-useful"
+        ],
+        "task-duration": [
+            "17.2",
+            "26.9",
+            "25.1"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "It would help to know what kind of thrillers the user is looking for",
+            "The user is obviously very pleased.",
+            "It would give me a better idea how well the bot did."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "2",
+            "2",
+            "2"
+        ]
+    },
+    "840eed20f47347ee81e95ff1a0e1adb2": {
+        "": [
+            "108",
+            "109",
+            "110"
+        ],
+        "system3": [
+            "I recently saw \"The Disappointments Room (2016)\" was hit or miss, but not bad.",
+            "I recently saw \"The Disappointments Room (2016)\" was hit or miss, but not bad.",
+            "I recently saw \"The Disappointments Room (2016)\" was hit or miss, but not bad."
+        ],
+        "user4": [
+            "cool, that sounds good",
+            "cool, that sounds good",
+            "cool, that sounds good"
+        ],
+        "system4": [
+            "A classic. And I liked \"The Others  (2001)\"",
+            "A classic. And I liked \"The Others  (2001)\"",
+            "A classic. And I liked \"The Others  (2001)\""
+        ],
+        "user5": [
+            "any gorry kind? i love blood and guts like zombie movies",
+            "any gorry kind? i love blood and guts like zombie movies",
+            "any gorry kind? i love blood and guts like zombie movies"
+        ],
+        "system5": [
+            "I like \"Dawn of the Dead  (2004)\"",
+            "I like \"Dawn of the Dead  (2004)\"",
+            "I like \"Dawn of the Dead  (2004)\""
+        ],
+        "user6": [
+            "that is my kind of movie and all of the gore that comes with it, YES!!",
+            "that is my kind of movie and all of the gore that comes with it, YES!!",
+            "that is my kind of movie and all of the gore that comes with it, YES!!"
+        ],
+        "confidence": [
+            "Increased confidence",
+            "No effect on confidence",
+            "No effect on confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "task-duration": [
+            "19.6",
+            "9.8",
+            "25.5"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "It would give me a better idea of how accurate the bot was.",
+            "The user had just talked about liking a certain type of movies that the AI then recommended more of, so I did not need to see more.",
+            "It was clear the user was very pleased"
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "2",
+            "2",
+            "2"
+        ]
+    },
+    "260ba7961af641a1930c0528c09d4cb2": {
+        "": [
+            "111",
+            "112",
+            "113"
+        ],
+        "system3": [
+            "Frozen (2013) has a great main character.",
+            "Frozen (2013) has a great main character.",
+            "Frozen (2013) has a great main character."
+        ],
+        "user4": [
+            "i cry at the end every time yeah but i love the supporting charachters more",
+            "i cry at the end every time yeah but i love the supporting charachters more",
+            "i cry at the end every time yeah but i love the supporting charachters more"
+        ],
+        "system4": [
+            "What is your favorite character in Frozen (2013)?",
+            "What is your favorite character in Frozen (2013)?",
+            "What is your favorite character in Frozen (2013)?"
+        ],
+        "user5": [
+            "Umm oalf and sphen",
+            "Umm oalf and sphen",
+            "Umm oalf and sphen"
+        ],
+        "system5": [
+            "Mine is definitely Olaf.",
+            "Mine is definitely Olaf.",
+            "Mine is definitely Olaf."
+        ],
+        "user6": [
+            "they are the funny ones anyway",
+            "they are the funny ones anyway",
+            "they are the funny ones anyway"
+        ],
+        "confidence": [
+            "No effect on confidence",
+            "No effect on confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "very-useful"
+        ],
+        "task-duration": [
+            "5.4",
+            "40.0",
+            "6.8"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "neutral",
+            "somewhat-easy"
+        ],
+        "feedback": [
+            "The AI was just being conversational and did not recommend a movie in the highlighted response, so I did not need to see more.",
+            "Maybe I could see if they already recommended a movie that the user liked.",
+            "The movie was not actually recommended in this utterance-the system was talking about favorite characters which was irrelevant."
+        ],
+        "inclusion-of-history": [
+            "no",
+            "unsure",
+            "no"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "0",
+            "1",
+            "0"
+        ]
+    },
+    "ca2ff74e2a8b490886fd52dbebf1261c": {
+        "": [
+            "114",
+            "115",
+            "116"
+        ],
+        "system3": [
+            "or \"You've Got Mail (1998)\"",
+            "or \"You've Got Mail (1998)\"",
+            "or \"You've Got Mail (1998)\""
+        ],
+        "user4": [
+            "I have seen the last one, but not the other two. They sound interesting'",
+            "I have seen the last one, but not the other two. They sound interesting'",
+            "I have seen the last one, but not the other two. They sound interesting'"
+        ],
+        "system4": [
+            "I like that one a lot, it's both romantic and comedic you mean you havn't seen \"Crazy, Stupid, Love (2011)\" and \"The Notebook (2004)\"",
+            "I like that one a lot, it's both romantic and comedic you mean you havn't seen \"Crazy, Stupid, Love (2011)\" and \"The Notebook (2004)\"",
+            "I like that one a lot, it's both romantic and comedic you mean you havn't seen \"Crazy, Stupid, Love (2011)\" and \"The Notebook (2004)\""
+        ],
+        "user5": [
+            "That sounds good. Yep. Haven't seen those two",
+            "That sounds good. Yep. Haven't seen those two",
+            "That sounds good. Yep. Haven't seen those two"
+        ],
+        "system5": [
+            "cool, check out \"The Notebook (2004)\" if you like",
+            "cool, check out \"The Notebook (2004)\" if you like",
+            "cool, check out \"The Notebook (2004)\" if you like"
+        ],
+        "user6": [
+            "Thanks. I think I will. I appreciate the suggestions",
+            "Thanks. I think I will. I appreciate the suggestions",
+            "Thanks. I think I will. I appreciate the suggestions"
+        ],
+        "confidence": [
+            "Increased confidence",
+            "Increased confidence",
+            "Increased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "task-duration": [
+            "8.6",
+            "31.9",
+            "20.6"
+        ],
+        "ease-of-evaluation": [
+            "somewhat-easy",
+            "much-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "The movie was already mentioned previously so did not have to be mentioned again",
+            "It's clear the user was pleased.",
+            "The user seems to like the suggestions but it would help more to know exactly what genre of films the user requested"
+        ],
+        "inclusion-of-history": [
+            "no",
+            "no",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "0",
+            "2",
+            "2"
+        ]
+    },
+    "823987dfb28748668832784b8f71d342": {
+        "": [
+            "117",
+            "118",
+            "119"
+        ],
+        "system3": [
+            "I think \"Dear John  (2010)\" is slightly better but just like \"A Walk to Remember (2002)\" they are both sad at the end.",
+            "I think \"Dear John  (2010)\" is slightly better but just like \"A Walk to Remember (2002)\" they are both sad at the end.",
+            "I think \"Dear John  (2010)\" is slightly better but just like \"A Walk to Remember (2002)\" they are both sad at the end."
+        ],
+        "user4": [
+            "Who is in it?",
+            "Who is in it?",
+            "Who is in it?"
+        ],
+        "system4": [
+            "Taten Chatem",
+            "Taten Chatem",
+            "Taten Chatem"
+        ],
+        "user5": [
+            "Do you mean Channing Tatum?",
+            "Do you mean Channing Tatum?",
+            "Do you mean Channing Tatum?"
+        ],
+        "system5": [
+            "I always would recommend these movies including the ones you have seen already like \"A Walk to Remember (2002).\" Yes, sorry",
+            "I always would recommend these movies including the ones you have seen already like \"A Walk to Remember (2002).\" Yes, sorry",
+            "I always would recommend these movies including the ones you have seen already like \"A Walk to Remember (2002).\" Yes, sorry"
+        ],
+        "user6": [
+            "I think I will watch \"Dear John  (2010)\" Thanks for the suggestion.",
+            "I think I will watch \"Dear John  (2010)\" Thanks for the suggestion.",
+            "I think I will watch \"Dear John  (2010)\" Thanks for the suggestion."
+        ],
+        "confidence": [
+            "Decreased confidence",
+            "Decreased confidence",
+            "Decreased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "neutral"
+        ],
+        "task-duration": [
+            "21.8",
+            "12.7",
+            "21.1"
+        ],
+        "ease-of-evaluation": [
+            "much-more-difficult",
+            "somewhat-easy",
+            "much-easy"
+        ],
+        "feedback": [
+            "Although the user seemed overall happy with the AI, I could not tell what kind of movies they wanted recommended to them, and seeing the start of the conversation would've helped.",
+            "I could have figured out more abouto what the user liked.",
+            "It would be helpful to have more information about the kind of movie the user is looking for"
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "yes",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "somewhat-useful",
+            "somewhat-useful"
+        ],
+        "usefulness": [
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    "aa9733a0e23447f0a7d76d457be99b61": {
+        "": [
+            "120",
+            "121",
+            "122"
+        ],
+        "system3": [
+            "\"Hook  (1991)\" is another classic of his and you can get it on DVD.",
+            "\"Hook  (1991)\" is another classic of his and you can get it on DVD.",
+            "\"Hook  (1991)\" is another classic of his and you can get it on DVD."
+        ],
+        "user4": [
+            "I seen Flubber too and liked it.",
+            "I seen Flubber too and liked it.",
+            "I seen Flubber too and liked it."
+        ],
+        "system4": [
+            "\"Patch Adams  (1998)\" is more on the emotional side but full of laughs. You can also get on DVD.",
+            "\"Patch Adams  (1998)\" is more on the emotional side but full of laughs. You can also get on DVD.",
+            "\"Patch Adams  (1998)\" is more on the emotional side but full of laughs. You can also get on DVD."
+        ],
+        "user5": [
+            "I haven't seen Hook. That sounds like a winner in my book. I'll see if I can find it. Yes, I seen Patch Adams. I think that was a cry for help on his part.",
+            "I haven't seen Hook. That sounds like a winner in my book. I'll see if I can find it. Yes, I seen Patch Adams. I think that was a cry for help on his part.",
+            "I haven't seen Hook. That sounds like a winner in my book. I'll see if I can find it. Yes, I seen Patch Adams. I think that was a cry for help on his part."
+        ],
+        "system5": [
+            "\"Jack  (1996)\" is also another Robin Williams classic you can also get on DVD.",
+            "\"Jack  (1996)\" is also another Robin Williams classic you can also get on DVD.",
+            "\"Jack  (1996)\" is also another Robin Williams classic you can also get on DVD."
+        ],
+        "user6": [
+            "Poor man made us all laugh but was dying inside. It's so sad. Yes, Jack was one of my favorites as I mentioned.",
+            "Poor man made us all laugh but was dying inside. It's so sad. Yes, Jack was one of my favorites as I mentioned.",
+            "Poor man made us all laugh but was dying inside. It's so sad. Yes, Jack was one of my favorites as I mentioned."
+        ],
+        "confidence": [
+            "Increased confidence",
+            "No effect on confidence",
+            "Decreased confidence"
+        ],
+        "context-usefulness": [
+            "very-useful",
+            "neutral",
+            "very-useful"
+        ],
+        "task-duration": [
+            "16.7",
+            "50.5",
+            "9.4"
+        ],
+        "ease-of-evaluation": [
+            "much-easy",
+            "much-easy",
+            "somewhat-more-difficult"
+        ],
+        "feedback": [
+            "It would give me a better idea of how the convo went between the two.",
+            "Obviously the user is pleased with something they previously recommended.",
+            "It is hard to tell what the user wanted to hear about, even though they seem okay with talking about Robin Williams movies - being able to see the start of the conversation would have helped."
+        ],
+        "inclusion-of-history": [
+            "yes",
+            "no",
+            "yes"
+        ],
+        "nxt-utterance-usefulness": [
+            "very-useful",
+            "very-useful",
+            "very-useful"
+        ],
+        "usefulness": [
+            "2",
+            "0",
+            "2"
+        ]
+    }
+}
